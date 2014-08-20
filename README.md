@@ -1,6 +1,6 @@
-========================================
-= MY EPG (MY Electronic Program Guide) =
-========================================
+======================================
+=MY EPG (MY Electronic Program Guide)=
+======================================
 
 Intisari Rancangan TV Pelbagai Negara.
 
