@@ -227,9 +227,6 @@ rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv
 #EXTINF:-1 tvg-id=“ZEE SMILE” tvg-name=“ZEE_SMILE” tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
 rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/
 
-#EXTINF:-1 tvg-shift=1 tvg-id=“HBO UNKNOWN” tvg-name=“HBO_UNKNOWN” tvg-logo="HBO.png" group-title="MOVIES CHANNEL",HBO UNKNOWN
-rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
-
 #EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=“HBO HD” tvg-name=“HBO_HD” tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
 http://203.162.235.26/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
 
@@ -265,6 +262,9 @@ rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl
 
 #EXTINF:-1 tvg-id=“PINK ACTION MOVIES” tvg-name=“PINK_ACTION_MOVIES” tvg-logo="PINK_ACTION_MOVIES.png" group-title="MOVIES CHANNEL",PINK ACTION MOVIES
 http://146.0.42.56:2021
+
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" " group-title="MOVIES CHANNEL",24/7 MOVIES HD
+rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
 
 #EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
 http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
