@@ -1,395 +1,398 @@
 #EXTM3U
-#EXTINF:-1 tvg-id=ìTV1î tvg-name=ìTV1î tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
+#EXTINF:-1 tvg-id=‚ÄúTV1‚Äù tvg-name=‚ÄúTV1‚Äù tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
 http://supercharged.stream.my/live/ngrp:rtm-ch001.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìTV2î tvg-name=ìTV2î tvg-logo="TV2.png" group-title="MALAYSIAN TV CHANNEL",TV2
+#EXTINF:-1 tvg-id=‚ÄúTV2‚Äù tvg-name=‚ÄúTV2‚Äù tvg-logo="TV2.png" group-title="MALAYSIAN TV CHANNEL",TV2
 http://supercharged.stream.my/live/ngrp:rtm-ch003.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìTV3î tvg-name=ìTV3î tvg-logo="TV3.png" group-title="MALAYSIAN TV CHANNEL",TV3
+#EXTINF:-1 tvg-id=‚ÄúTV3‚Äù tvg-name=‚ÄúTV3‚Äù tvg-logo="TV3.png" group-title="MALAYSIAN TV CHANNEL",TV3
 http://tv3liveios-i.akamaihd.net/hls/live/205900/ios/tv3live/master.m3u8
 
-#EXTINF:-1 tvg-id=ìNTV7î tvg-name=ìNTV7" tvg-logo="NTV7.png" group-title="MALAYSIAN TV CHANNEL",NTV7
+#EXTINF:-1 tvg-id=‚ÄúNTV7‚Äù tvg-name=‚ÄúNTV7" tvg-logo="NTV7.png" group-title="MALAYSIAN TV CHANNEL",NTV7
 http://ntv7liveios-i.akamaihd.net/hls/live/205902/ios/ntv7live/master.m3u8
 
-#EXTINF:-1 tvg-id=ì8TVî tvg-name=ì8TVî tvg-logo="8TV.png" group-title="MALAYSIAN TV CHANNEL",8TV
+#EXTINF:-1 tvg-id=‚Äú8TV‚Äù tvg-name=‚Äú8TV‚Äù tvg-logo="8TV.png" group-title="MALAYSIAN TV CHANNEL",8TV
 http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 
-#EXTINF:-1 tvg-id=ìTV9î tvg-name=ìTV9î tvg-logo="TV9.png" group-title="MALAYSIAN TV CHANNEL",TV9
+#EXTINF:-1 tvg-id=‚ÄúTV9‚Äù tvg-name=‚ÄúTV9‚Äù tvg-logo="TV9.png" group-title="MALAYSIAN TV CHANNEL",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:-1 tvg-id=ìALHIJRAHî tvg-name=ìALHIJRAHî tvg-logo="AL_HIJRAH.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
+#EXTINF:-1 tvg-id=‚ÄúALHIJRAH‚Äù tvg-name=‚ÄúALHIJRAH‚Äù tvg-logo="AL_HIJRAH.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
 http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/chunklist_w477609690_b508239.m3u8
 
-#EXTINF:-1 tvg-id=ìTVIî tvg-name=ìTVIî tvg-logo="TVi.png" group-title="MALAYSIAN TV CHANNEL",TVI
+#EXTINF:-1 tvg-id=‚ÄúTVI‚Äù tvg-name=‚ÄúTVI‚Äù tvg-logo="TVi.png" group-title="MALAYSIAN TV CHANNEL",TVI
 http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìMUZIKAKTIFî tvg-name=ìMUZIKAKTIFî tvg-logo="MUZIK_AKTIF.png" group-title="MALAYSIAN TV CHANNEL",MUZIK AKTIF
+#EXTINF:-1 tvg-id=‚ÄúMUZIKAKTIF‚Äù tvg-name=‚ÄúMUZIKAKTIF‚Äù tvg-logo="MUZIK_AKTIF.png" group-title="MALAYSIAN TV CHANNEL",MUZIK AKTIF
 http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìTV PARLIMENî tvg-name=ìTV_PARLIMENî tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
+#EXTINF:-1 tvg-id=‚ÄúTV PARLIMEN‚Äù tvg-name=‚ÄúTV_PARLIMEN‚Äù tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìRTB 4 INTERNATIONALî tvg-name=ìRTB_4_INTERNATIONALî tvg-logo="RTB_4_INTERNATIONAL.png" group-title="BRUNEI TV CHANNEL",RTB 4 INTERNATIONAL
+#EXTINF:-1 tvg-id=‚ÄúRTB 4 INTERNATIONAL‚Äù tvg-name=‚ÄúRTB_4_INTERNATIONAL‚Äù tvg-logo="RTB_4_INTERNATIONAL.png" group-title="BRUNEI TV CHANNEL",RTB 4 INTERNATIONAL
 rtsp://202.160.15.86/stream-03-512
 
-#EXTINF:-1 tvg-id=ìSCTVî tvg-name=ìSCTVî tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
+#EXTINF:-1 tvg-id=‚ÄúSCTV‚Äù tvg-name=‚ÄúSCTV‚Äù tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
 http://202.75.23.50:1400/live/ch11/03.m3u8
 
-#EXTINF:-1 tvg-id=ìINDOSIARî tvg-name=ìINDOSIARî tvg-logo="INDOSIAR.png" group-title="INDONESIAN TV CHANNEL",INDOSIAR
+#EXTINF:-1 tvg-id=‚ÄúINDOSIAR‚Äù tvg-name=‚ÄúINDOSIAR‚Äù tvg-logo="INDOSIAR.png" group-title="INDONESIAN TV CHANNEL",INDOSIAR
 http://202.75.23.50:1400/live/ch8/03.m3u8
 
-#EXTINF:-1 tvg-id=ìRCTIî tvg-name=ìRCTIî tvg-logo="RCTI.png" group-title="INDONESIAN TV CHANNEL",RCTI
+#EXTINF:-1 tvg-id=‚ÄúRCTI‚Äù tvg-name=‚ÄúRCTI‚Äù tvg-logo="RCTI.png" group-title="INDONESIAN TV CHANNEL",RCTI
 http://nonton.org/mnc1/live/chunklist.m3u8?wowzasessionid=707322983
 
-#EXTINF:-1 tvg-id=ìTV ONEî tvg-name=ìTV_ONEî tvg-logo="TV_ONE.png" group-title="INDONESIAN TV CHANNEL",TV ONE
+#EXTINF:-1 tvg-id=‚ÄúTV ONE‚Äù tvg-name=‚ÄúTV_ONE‚Äù tvg-logo="TV_ONE.png" group-title="INDONESIAN TV CHANNEL",TV ONE
 http://202.75.23.50:1400/live/ch12/03.m3u8
 
-#EXTINF:-1 tvg-id=ìTRANS TVî tvg-name=ìTRANS_TVî tvg-logo="TRANS_TV.png" group-title="INDONESIAN TV CHANNEL",TRANS TV
+#EXTINF:-1 tvg-id=‚ÄúTRANS TV‚Äù tvg-name=‚ÄúTRANS_TV‚Äù tvg-logo="TRANS_TV.png" group-title="INDONESIAN TV CHANNEL",TRANS TV
 http://202.75.23.33:1400/live/ch23/03.m3u8
 
-#EXTINF:-1 tvg-id=ìTRANS 7î tvg-name=ìTRANS_7î tvg-logo="TRANS_7.png" group-title="INDONESIAN TV CHANNEL",TRANS 7
+#EXTINF:-1 tvg-id=‚ÄúTRANS 7‚Äù tvg-name=‚ÄúTRANS_7‚Äù tvg-logo="TRANS_7.png" group-title="INDONESIAN TV CHANNEL",TRANS 7
 http://202.75.23.33:1400/live/ch24/03.m3u8
 
-#EXTINF:-1 tvg-id=ìMETRO TVî tvg-name=ìMETRO_TVî tvg-logo="METRO_TV.png" group-title="INDONESIAN TV CHANNEL",METRO TV
+#EXTINF:-1 tvg-id=‚ÄúMETRO TV‚Äù tvg-name=‚ÄúMETRO_TV‚Äù tvg-logo="METRO_TV.png" group-title="INDONESIAN TV CHANNEL",METRO TV
 http://202.75.23.33:1400/live/ch22/03.m3u8
 
-#EXTINF:-1 tvg-id=ìGLOBAL TVî tvg-name=ìGLOBAL_TVî tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
+#EXTINF:-1 tvg-id=‚ÄúGLOBAL TV‚Äù tvg-name=‚ÄúGLOBAL_TV‚Äù tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
 http://edge.okeinfo.net:1935/live/mncoke2_512.stream/playlist.m3u8?wowzasessionid=1001664917
 
-#EXTINF:-1 tvg-id=ìGLOBAL TVî tvg-name=ìGLOBAL_TVî tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
+#EXTINF:-1 tvg-id=‚ÄúGLOBAL TV‚Äù tvg-name=‚ÄúGLOBAL_TV‚Äù tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
 http://cdn.mivo.tv/mivotvjkt/globaltv2/playlist.m3u8?token=#8888#9999 timeout=30
 
-#EXTINF:-1 tvg-id=ìMNC TVî tvg-name=ìMNC_TVî tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
+#EXTINF:-1 tvg-id=‚ÄúMNC TV‚Äù tvg-name=‚ÄúMNC_TV‚Äù tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
 http://edge.okeinfo.net:1935/live/mncoke3_512.stream/chunklist_b125000_w2028109213.m3u8
 
-#EXTINF:-1 tvg-id=ìMNC TVî tvg-name=ìMNC_TVî tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
+#EXTINF:-1 tvg-id=‚ÄúMNC TV‚Äù tvg-name=‚ÄúMNC_TV‚Äù tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
 http://cdn.mivo.tv/mivotvjkt/mnctv2/playlist.m3u8?token=#8888#9999 timeout=30
 
-#EXTINF:-1 tvg-id=ìANTVî tvg-name=ìANTVî tvg-logo="ANTV.png" group-title="INDONESIAN TV CHANNEL",ANTV
+#EXTINF:-1 tvg-id=‚ÄúANTV‚Äù tvg-name=‚ÄúANTV‚Äù tvg-logo="ANTV.png" group-title="INDONESIAN TV CHANNEL",ANTV
 http://202.75.23.50:1400/live/ch7/03.m3u8
 
-#EXTINF:-1 tvg-id=ìKOMPAS TVî tvg-name=ìKOMPAS_TVî tvg-logo="KOMPAS_TV.png" group-title="INDONESIAN TV CHANNEL",KOMPAS TV
+#EXTINF:-1 tvg-id=‚ÄúKOMPAS TV‚Äù tvg-name=‚ÄúKOMPAS_TV‚Äù tvg-logo="KOMPAS_TV.png" group-title="INDONESIAN TV CHANNEL",KOMPAS TV
 http://202.75.23.50:1400/live/ch9/03.m3u8
 
-#EXTINF:-1 tvg-id=ìTVRIî tvg-name=ìTVRIî tvg-logo="TVRI.png" group-title="INDONESIAN TV CHANNEL",TVRI
+#EXTINF:-1 tvg-id=‚ÄúTVRI‚Äù tvg-name=‚ÄúTVRI‚Äù tvg-logo="TVRI.png" group-title="INDONESIAN TV CHANNEL",TVRI
 http://202.75.23.33:1400/live/ch25/03.m3u8
 
-#EXTINF:-1 tvg-id=ìMIVO TVî tvg-name=ìMIVO_TVî tvg-logo="MIVO_TV.png" group-title="INDONESIAN TV CHANNEL",MIVO TV
+#EXTINF:-1 tvg-id=‚ÄúMIVO TV‚Äù tvg-name=‚ÄúMIVO_TV‚Äù tvg-logo="MIVO_TV.png" group-title="INDONESIAN TV CHANNEL",MIVO TV
 http://cdn.mivo.tv/mivotvjkt/mivotv_480p/playlist.m3u8?token=#8888#9999 timeout=30
 
-#EXTINF:-1 tvg-id=ìRTVî tvg-name=ìRTVî tvg-logo="RTV.png" group-title="INDONESIAN TV CHANNEL",RTV
+#EXTINF:-1 tvg-id=‚ÄúRTV‚Äù tvg-name=‚ÄúRTV‚Äù tvg-logo="RTV.png" group-title="INDONESIAN TV CHANNEL",RTV
 http://180.250.29.12/jhos/rtv_3/Playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìDAAITVî tvg-name=ìDAAITVî tvg-logo="DAAITV.png" group-title="INDONESIAN TV CHANNEL",DAAITV
+#EXTINF:-1 tvg-id=‚ÄúDAAITV‚Äù tvg-name=‚ÄúDAAITV‚Äù tvg-logo="DAAITV.png" group-title="INDONESIAN TV CHANNEL",DAAITV
 http://cdn.mivo.tv/mivotvjkt/daaitv2/playlist.m3u8?token=#8888#9999 timeout=30
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìDISNEY CHANNELî tvg-name=ìDISNEY_CHANNELî tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúDISNEY CHANNEL‚Äù tvg-name=‚ÄúDISNEY_CHANNEL‚Äù tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_640x360_800kbps.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìDISNEY CHANNELî tvg-name=ìDISNEY_CHANNELî tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúDISNEY CHANNEL‚Äù tvg-name=‚ÄúDISNEY_CHANNEL‚Äù tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìNICKELODEONî tvg-name=ìNICKELODEONî tvg-logo="NICKELODEON.png" group-title="KIDS CHANNEL",NICKELODEON
+#EXTINF:-1 tvg-id=‚ÄúNICKELODEON‚Äù tvg-name=‚ÄúNICKELODEON‚Äù tvg-logo="NICKELODEON.png" group-title="KIDS CHANNEL",NICKELODEON
 http://202.75.23.36/live/ch43/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDISCOVERY KIDSî tvg-name=ìDISCOVERY_KIDSî tvg-logo="DISCOVERY_KIDS.png" group-title="KIDS CHANNEL",DISCOVERY KIDS
+#EXTINF:-1 tvg-id=‚ÄúDISCOVERY KIDS‚Äù tvg-name=‚ÄúDISCOVERY_KIDS‚Äù tvg-logo="DISCOVERY_KIDS.png" group-title="KIDS CHANNEL",DISCOVERY KIDS
 http://202.75.23.35/live/ch36/03.m3u8
 
-#EXTINF:-1 tvg-id=ìJIM JAMî tvg-name=ìJIM_JAMî tvg-logo="JIM_JAM.png" group-title="KIDS CHANNEL",JIM JAM
+#EXTINF:-1 tvg-id=‚ÄúJIM JAM‚Äù tvg-name=‚ÄúJIM_JAM‚Äù tvg-logo="JIM_JAM.png" group-title="KIDS CHANNEL",JIM JAM
 http://202.75.23.37/live/ch17/03.m3u8
 
-#EXTINF:-1 tvg-id=ìTOM AND JERRY 24/7î tvg-name=ìTOM_AND_JERRY_24/7î tvg-logo="TOM AND JERRY 24/7.png" group-title="KIDS CHANNEL",TOM AND JERRY 24/7
+#EXTINF:-1 tvg-id=‚ÄúTOM AND JERRY 24/7‚Äù tvg-name=‚ÄúTOM_AND_JERRY_24/7‚Äù tvg-logo="TOM AND JERRY 24/7.png" group-title="KIDS CHANNEL",TOM AND JERRY 24/7
 rtmp://206.190.151.38/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 
-#EXTINF:-1 tvg-id=ìCARTOONITOî tvg-name=ìCARTOONITOî tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
+#EXTINF:-1 tvg-id=‚ÄúCARTOONITO‚Äù tvg-name=‚ÄúCARTOONITO‚Äù tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
 http://202.75.23.36/live/ch49/03.m3u8
 
-#EXTINF:-1 tvg-id=ìBABY FIRSTî tvg-name=ìBABY_FIRSTî tvg-logo="BABY_FIRST.png" group-title="KIDS CHANNEL",BABY FIRST
+#EXTINF:-1 tvg-id=‚ÄúBABY FIRST‚Äù tvg-name=‚ÄúBABY_FIRST‚Äù tvg-logo="BABY_FIRST.png" group-title="KIDS CHANNEL",BABY FIRST
 http://202.75.23.33/live/ch27/03.m3u8
 
-#EXTINF:-1 tvg-id=ìJ KIDS TVî tvg-name=ìJ_KIDS_TVî tvg-logo="J KIDS TV.png" group-title="KIDS CHANNEL",J KIDS TV
+#EXTINF:-1 tvg-id=‚ÄúJ KIDS TV‚Äù tvg-name=‚ÄúJ_KIDS_TV‚Äù tvg-logo="J KIDS TV.png" group-title="KIDS CHANNEL",J KIDS TV
 rtmp://111.118.21.75/ptv2/ playpath=phd169 swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://111.118.21.75/ptv2&file=phd169&autostart=true pageUrl=objectEncoding
 
-#EXTINF:-1 tvg-id=ìNAT GEO CHANNEL - INDî tvg-name=ìNAT_GEO_CHANNEL_-_INDî tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
+#EXTINF:-1 tvg-id=‚ÄúNAT GEO CHANNEL - IND‚Äù tvg-name=‚ÄúNAT_GEO_CHANNEL_-_IND‚Äù tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
 http://202.75.23.35/live/ch38/03.m3u8
 
-#EXTINF:-1 tvg-id=ìNAT GEO WILD - INDî tvg-name=ìNAT_GEO_WILD_-_INDî tvg-logo="NAT_GEO_WILD.png" group-title="EDUCATION CHANNEL",NAT GEO WILD - IND
+#EXTINF:-1 tvg-id=‚ÄúNAT GEO WILD - IND‚Äù tvg-name=‚ÄúNAT_GEO_WILD_-_IND‚Äù tvg-logo="NAT_GEO_WILD.png" group-title="EDUCATION CHANNEL",NAT GEO WILD - IND
 http://202.75.23.35/live/ch39/03.m3u8
 
-#EXTINF:-1 tvg-id=ìNAT GEO PEOPLE - INDî tvg-name=ìNAT_GEO_PEOPLE_-_INDî tvg-logo="NAT_GEO_PEOPLE.png" group-title="EDUCATION CHANNEL",NAT GEO PEOPLE - IND
+#EXTINF:-1 tvg-id=‚ÄúNAT GEO PEOPLE - IND‚Äù tvg-name=‚ÄúNAT_GEO_PEOPLE_-_IND‚Äù tvg-logo="NAT_GEO_PEOPLE.png" group-title="EDUCATION CHANNEL",NAT GEO PEOPLE - IND
 http://202.75.23.34/live/ch31/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDISCOVERY CHANNEL - INDî tvg-name=ìDISCOVERY_CHANNEL_-_INDî tvg-logo="DISCOVERY_CHANNEL.png" group-title="EDUCATION CHANNEL",DISCOVERY CHANNEL - IND
+#EXTINF:-1 tvg-id=‚ÄúDISCOVERY CHANNEL - IND‚Äù tvg-name=‚ÄúDISCOVERY_CHANNEL_-_IND‚Äù tvg-logo="DISCOVERY_CHANNEL.png" group-title="EDUCATION CHANNEL",DISCOVERY CHANNEL - IND
 http://202.75.23.34/live/ch29/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDISCOVERY WORLD - INDî tvg-name=ìDISCOVERY_WORLD_-_INDî tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD - IND
+#EXTINF:-1 tvg-id=‚ÄúDISCOVERY WORLD - IND‚Äù tvg-name=‚ÄúDISCOVERY_WORLD_-_IND‚Äù tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD - IND
 http://202.75.23.34/live/ch30/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDISCOVERY WORLDî tvg-name=ìDISCOVERY_WORLDî tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD
+#EXTINF:-1 tvg-id=‚ÄúDISCOVERY WORLD‚Äù tvg-name=‚ÄúDISCOVERY_WORLD‚Äù tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD
 http://203.162.235.26/lives/origin03/discoveryhdmb.isml/discoveryhdmb.m3u8
 
-#EXTINF:-1 tvg-id=ìDISCOVERY SCIENCEî tvg-name=ìDISCOVERY_SCIENCEî tvg-logo="DISCOVERY_SCIENCE.png" group-title="EDUCATION CHANNEL",DISCOVERY SCIENCE
+#EXTINF:-1 tvg-id=‚ÄúDISCOVERY SCIENCE‚Äù tvg-name=‚ÄúDISCOVERY_SCIENCE‚Äù tvg-logo="DISCOVERY_SCIENCE.png" group-title="EDUCATION CHANNEL",DISCOVERY SCIENCE
 http://202.75.23.34/live/ch33/03.m3u8
 
-#EXTINF:-1 tvg-id=ìHISTORY CHANNEL - INDî tvg-name=ìHISTORY_CHANNEL_-_INDî tvg-logo="HISTORY_CHANNEL.png" group-title="EDUCATION CHANNEL",HISTORY CHANNEL - IND
+#EXTINF:-1 tvg-id=‚ÄúHISTORY CHANNEL - IND‚Äù tvg-name=‚ÄúHISTORY_CHANNEL_-_IND‚Äù tvg-logo="HISTORY_CHANNEL.png" group-title="EDUCATION CHANNEL",HISTORY CHANNEL - IND
 http://202.75.23.36/live/ch45/03.m3u8
 
-#EXTINF:-1 tvg-id=ìNASA TV EDUCATIONALî tvg-name=ìNASA_TV_EDUCATIONALî tvg-logo="NASA_TV_EDUCATIONAL.png" group-title="EDUCATION CHANNEL",NASA TV EDUCATIONAL
+#EXTINF:-1 tvg-id=‚ÄúNASA TV EDUCATIONAL‚Äù tvg-name=‚ÄúNASA_TV_EDUCATIONAL‚Äù tvg-logo="NASA_TV_EDUCATIONAL.png" group-title="EDUCATION CHANNEL",NASA TV EDUCATIONAL
 http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/live.m3u8
 
-#EXTINF:-1 tvg-id=ìINDOMIXî tvg-name=ìINDOMIXî tvg-logo="INDOMIX.png" group-title="MUSIC CHANNEL",INDOMIX
+#EXTINF:-1 tvg-id=‚ÄúINDOMIX‚Äù tvg-name=‚ÄúINDOMIX‚Äù tvg-logo="INDOMIX.png" group-title="MUSIC CHANNEL",INDOMIX
 http://202.75.23.49/live/ch1/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDANGDUTZî tvg-name=ìDANGDUTZî tvg-logo="DANGDUTZ.png" group-title="MUSIC CHANNEL",DANGDUTZ
+#EXTINF:-1 tvg-id=‚ÄúDANGDUTZ‚Äù tvg-name=‚ÄúDANGDUTZ‚Äù tvg-logo="DANGDUTZ.png" group-title="MUSIC CHANNEL",DANGDUTZ
 http://202.75.23.49/live/ch3/03.m3u8
 
-#EXTINF:-1 tvg-id=ìKITA TVî tvg-name=ìKITA_TVî tvg-logo="KITA_TV.png" group-title="MUSIC CHANNEL",KITA TV
+#EXTINF:-1 tvg-id=‚ÄúKITA TV‚Äù tvg-name=‚ÄúKITA_TV‚Äù tvg-logo="KITA_TV.png" group-title="MUSIC CHANNEL",KITA TV
 rtmp://kitatv.com/live/ playpath=myStream swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://kitatv.com/live&file=myStream&autostart=true pageUrl=objectEncoding
 
-#EXTINF:-1 tvg-id=ìMTV HITSî tvg-name=ìMTV_HITSî tvg-logo="MTV_HITS.png" group-title="MUSIC CHANNEL",MTV HITS
+#EXTINF:-1 tvg-id=‚ÄúMTV HITS‚Äù tvg-name=‚ÄúMTV_HITS‚Äù tvg-logo="MTV_HITS.png" group-title="MUSIC CHANNEL",MTV HITS
 http://202.75.23.35:1400/live/ch42/01.m3u8
 
-#EXTINF:-1 tvg-id=ìMTV LIVEî tvg-name=ìMTV_LIVEî tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
+#EXTINF:-1 tvg-id=‚ÄúMTV LIVE‚Äù tvg-name=‚ÄúMTV_LIVE‚Äù tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
 http://202.75.23.37:1400/live/ch50/03.m3u8
 
-#EXTINF:-1 tvg-id=ìCHANNEL Vî tvg-name=ìCHANNEL_Vî tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
+#EXTINF:-1 tvg-id=‚ÄúCHANNEL V‚Äù tvg-name=‚ÄúCHANNEL_V‚Äù tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
 http://27.131.149.39/channelv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìNOW THATS WHAT I CALL MUSICî tvg-name=ìNOW_THATS_WHAT_I_CALL_MUSICî tvg-logo="NOW_MUSIC.png" group-title="MUSIC CHANNEL",NOW THATS WHAT I CALL MUSIC
+#EXTINF:-1 tvg-id=‚ÄúNOW THATS WHAT I CALL MUSIC‚Äù tvg-name=‚ÄúNOW_THATS_WHAT_I_CALL_MUSIC‚Äù tvg-logo="NOW_MUSIC.png" group-title="MUSIC CHANNEL",NOW THATS WHAT I CALL MUSIC
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8|User-Agent=SimpleTV
 
-#EXTINF:-1 tvg-id=ìCLUBLAND MUSICî tvg-name=ìCLUBLAND_MUSICî tvg-logo="CLUBLAND_MUSIC.png" group-title="MUSIC CHANNEL",CLUBLAND MUSIC
+#EXTINF:-1 tvg-id=‚ÄúCLUBLAND MUSIC‚Äù tvg-name=‚ÄúCLUBLAND_MUSIC‚Äù tvg-logo="CLUBLAND_MUSIC.png" group-title="MUSIC CHANNEL",CLUBLAND MUSIC
 http://rrr.sz.xlcdn.com/?account=AATW&file=clublandtv&type=live&service=wowza&protocol=http&output=playlist.m3u8|User-Agent=SimpleTV
 
-#EXTINF:-1 tvg-id=ìAKA MUSICî tvg-name=ìAKA_MUSICî tvg-logo="AKA_MUSIC.png" group-title="MUSIC CHANNEL",AKA MUSIC
+#EXTINF:-1 tvg-id=‚ÄúAKA MUSIC‚Äù tvg-name=‚ÄúAKA_MUSIC‚Äù tvg-logo="AKA_MUSIC.png" group-title="MUSIC CHANNEL",AKA MUSIC
 http://rrr.sz.xlcdn.com/?account=AATW&file=akanew&type=live&service=wowza&protocol=http&output=playlist.m3u8|User-Agent=SimpleTV
 
-#EXTINF:-1 tvg-id=ìKERRANGî tvg-name=ìKERRANGî tvg-logo="KERRANG.png" group-title="MUSIC CHANNEL",KERRANG
+#EXTINF:-1 tvg-id=‚ÄúKERRANG‚Äù tvg-name=‚ÄúKERRANG‚Äù tvg-logo="KERRANG.png" group-title="MUSIC CHANNEL",KERRANG
 http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel16/hls/3/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìROCK TVî tvg-name=ìROCK_TVî tvg-logo="ROCK_TV.png" group-title="MUSIC CHANNEL",ROCK TV
+#EXTINF:-1 tvg-id=‚ÄúROCK TV‚Äù tvg-name=‚ÄúROCK_TV‚Äù tvg-logo="ROCK_TV.png" group-title="MUSIC CHANNEL",ROCK TV
 rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
 
-#EXTINF:-1 tvg-id=ìGOTICA TVî tvg-name=ìGOTICA_TVî tvg-logo="GOTICA_TV.png" group-title="MUSIC CHANNEL",GOTICA TV
+#EXTINF:-1 tvg-id=‚ÄúGOTICA TV‚Äù tvg-name=‚ÄúGOTICA_TV‚Äù tvg-logo="GOTICA_TV.png" group-title="MUSIC CHANNEL",GOTICA TV
 rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?236 live=1 pageUrl=http://www.lasteles.com/es/musica/GOTICA/
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìAXNî tvg-name=ìAXNî tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúAXN‚Äù tvg-name=‚ÄúAXN‚Äù tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
 http://203.162.235.26/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
 
-#EXTINF:-1 tvg-id=ìDW TVî tvg-name=ìDW_TVî tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV
+#EXTINF:-1 tvg-id=‚ÄúDW TV‚Äù tvg-name=‚ÄúDW_TV‚Äù tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV
 http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
 
-#EXTINF:-1 tvg-id=ìTLCî tvg-name=ìTLCî tvg-logo="TLC.png" group-title="VARIETY CHANNEL",TLC
+#EXTINF:-1 tvg-id=‚ÄúTLC‚Äù tvg-name=‚ÄúTLC‚Äù tvg-logo="TLC.png" group-title="VARIETY CHANNEL",TLC
 http://202.75.23.34/live/ch35/03.m3u8
 
-#EXTINF:-1 tvg-id=ìDMAXî tvg-name=ìDMAXî tvg-logo="DMAX.png" group-title="VARIETY CHANNEL",DMAX
+#EXTINF:-1 tvg-id=‚ÄúDMAX‚Äù tvg-name=‚ÄúDMAX‚Äù tvg-logo="DMAX.png" group-title="VARIETY CHANNEL",DMAX
 http://202.75.23.34/live/ch32/03.m3u8
 
-#EXTINF:-1 tvg-id=ìEVEî tvg-name=ìEVEî tvg-logo="EVE.png" group-title="VARIETY CHANNEL",EVE
+#EXTINF:-1 tvg-id=‚ÄúEVE‚Äù tvg-name=‚ÄúEVE‚Äù tvg-logo="EVE.png" group-title="VARIETY CHANNEL",EVE
 http://202.75.23.34/live/ch34/03.m3u8
 
-#EXTINF:-1 tvg-id=ìBIOî tvg-name=ìBIOî tvg-logo="BIO.png" group-title="VARIETY CHANNEL",BIO
+#EXTINF:-1 tvg-id=‚ÄúBIO‚Äù tvg-name=‚ÄúBIO‚Äù tvg-logo="BIO.png" group-title="VARIETY CHANNEL",BIO
 http://202.75.23.36/live/ch46/03.m3u8
 
-#EXTINF:-1 tvg-id=ìCRIME & INVESTIGATIONî tvg-name=ìCRIME_&_INVESTIGATIONî tvg-logo="CI.png" group-title="VARIETY CHANNEL",CRIME & INVESTIGATION
+#EXTINF:-1 tvg-id=‚ÄúCRIME & INVESTIGATION‚Äù tvg-name=‚ÄúCRIME_&_INVESTIGATION‚Äù tvg-logo="CI.png" group-title="VARIETY CHANNEL",CRIME & INVESTIGATION
 http://202.75.23.36/live/ch47/03.m3u8
 
-#EXTINF:-1 tvg-id=ìLIFETIMEî tvg-name=ìLIFETIMEî tvg-logo="LIFETIME.png" group-title="VARIETY CHANNEL",LIFETIME
+#EXTINF:-1 tvg-id=‚ÄúLIFETIME‚Äù tvg-name=‚ÄúLIFETIME‚Äù tvg-logo="LIFETIME.png" group-title="VARIETY CHANNEL",LIFETIME
 http://202.75.23.36/live/ch48/03.m3u8
 
-#EXTINF:-1 tvg-id=ìHI!TVî tvg-name=ìHI!TVî tvg-logo="HI!_TV.png" group-title="VARIETY CHANNEL",HI! TV
+#EXTINF:-1 tvg-id=‚ÄúHI!TV‚Äù tvg-name=‚ÄúHI!TV‚Äù tvg-logo="HI!_TV.png" group-title="VARIETY CHANNEL",HI! TV
 http://202.75.23.49/live/ch5/03.m3u8
 
-#EXTINF:-1 tvg-id=ìNET. TVî tvg-name=ìNET._TVî tvg-logo="NET._TV.png" group-title="VARIETY CHANNEL",NET. TV
+#EXTINF:-1 tvg-id=‚ÄúNET. TV‚Äù tvg-name=‚ÄúNET._TV‚Äù tvg-logo="NET._TV.png" group-title="VARIETY CHANNEL",NET. TV
 http://202.75.23.49/live/ch6/03.m3u8
 
-#EXTINF:-1 tvg-id=ìTWITî tvg-name=ìTWITî tvg-logo="TWIT.png" group-title="VARIETY CHANNEL",TWIT
+#EXTINF:-1 tvg-id=‚ÄúTWIT‚Äù tvg-name=‚ÄúTWIT‚Äù tvg-logo="TWIT.png" group-title="VARIETY CHANNEL",TWIT
 http://hls.cdn.flosoft.biz/flosoft/mp4:twitStream_360/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìTRAVEL CHANNELî tvg-name=ìTRAVEL_CHANNELî tvg-logo="TRAVEL_CHANNEL.png" group-title="VARIETY CHANNEL",TRAVEL CHANNEL
+#EXTINF:-1 tvg-id=‚ÄúTRAVEL CHANNEL‚Äù tvg-name=‚ÄúTRAVEL_CHANNEL‚Äù tvg-logo="TRAVEL_CHANNEL.png" group-title="VARIETY CHANNEL",TRAVEL CHANNEL
 http://202.75.23.35/live/ch41/03.m3u8
 
-#EXTINF:-1 tvg-id=ìFASHION TVî tvg-name=ìFASHION_TVî tvg-logo="FASHION_TV.png" group-title="VARIETY CHANNEL",FASHION TV
+#EXTINF:-1 tvg-id=‚ÄúFASHION TV‚Äù tvg-name=‚ÄúFASHION_TV‚Äù tvg-logo="FASHION_TV.png" group-title="VARIETY CHANNEL",FASHION TV
 http://202.75.23.37/live/ch16/03.m3u8
 
-#EXTINF:-1 tvg-id=ìFASHION ONEî tvg-name=ìFASHION_ONEî tvg-logo="FASHION_ONE.png" group-title="VARIETY CHANNEL",FASHION ONE
+#EXTINF:-1 tvg-id=‚ÄúFASHION ONE‚Äù tvg-name=‚ÄúFASHION_ONE‚Äù tvg-logo="FASHION_ONE.png" group-title="VARIETY CHANNEL",FASHION ONE
 http://202.75.23.35/live/ch37/03.m3u8
 
-#EXTINF:-1 tvg-id=ìPENTAGON TVî tvg-name=ìPENTAGON_TVî tvg-logo="PENTAGON_TV.png" group-title="VARIETY CHANNEL",PENTAGON TV
+#EXTINF:-1 tvg-id=‚ÄúPENTAGON TV‚Äù tvg-name=‚ÄúPENTAGON_TV‚Äù tvg-logo="PENTAGON_TV.png" group-title="VARIETY CHANNEL",PENTAGON TV
 rtmp://cp114761.live.edgefcs.net:443/live/ playpath=tpc-live_1@44263 swfUrl=http://www.pentagonchannel.mil/swf/flvPlayer.swf pageUrl=http://www.pentagonchannel.mil/library.html swfVfy=true live=true timeout=60
 
-#EXTINF:-1 tvg-id=ìARIRANGî tvg-name=ìARIRANGî tvg-logo="ARIRANG.png" group-title="VARIETY CHANNEL",ARIRANG
+#EXTINF:-1 tvg-id=‚ÄúARIRANG‚Äù tvg-name=‚ÄúARIRANG‚Äù tvg-logo="ARIRANG.png" group-title="VARIETY CHANNEL",ARIRANG
 http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld1.m3u8
 
-#EXTINF:-1 tvg-id=ìARIRANG HDî tvg-name=ìARIRANG HDî tvg-logo="ARIRANG_HD.png" group-title="VARIETY CHANNEL",ARIRANG HD
+#EXTINF:-1 tvg-id=‚ÄúARIRANG HD‚Äù tvg-name=‚ÄúARIRANG HD‚Äù tvg-logo="ARIRANG_HD.png" group-title="VARIETY CHANNEL",ARIRANG HD
 http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
 
-#EXTINF:-1 tvg-id=ìKBS WORLDî tvg-name=ìKBS_WORLDî tvg-logo="KBS_WORLD.png" group-title="VARIETY CHANNEL",KBS WORLD
+#EXTINF:-1 tvg-id=‚ÄúKBS WORLD‚Äù tvg-name=‚ÄúKBS_WORLD‚Äù tvg-logo="KBS_WORLD.png" group-title="VARIETY CHANNEL",KBS WORLD
 http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_live.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìSTAR JALSHAî tvg-name=ìSTAR_JALSHAî tvg-logo="STAR_JALSHA.png" group-title="VARIETY CHANNEL",STAR JALSHA
+#EXTINF:-1 tvg-id=‚ÄúSTAR JALSHA‚Äù tvg-name=‚ÄúSTAR_JALSHA‚Äù tvg-logo="STAR_JALSHA.png" group-title="VARIETY CHANNEL",STAR JALSHA
 rtmp://cp133305.live.edgefcs.net/live playpath=starjalsha2@62072 swfUrl=http://lihattv.us/scripts/player.swf conn=S:OK pageUrl=http://lihattv.tv/stats?ch=premium swfVfy=true live=true
 
-#EXTINF:-1 tvg-id=ìSTAR VIJAYî tvg-name=ìSTAR_VIJAYî tvg-logo="STAR_VIJAY.png" group-title="VARIETY CHANNEL",STAR VIJAY
+#EXTINF:-1 tvg-id=‚ÄúSTAR VIJAY‚Äù tvg-name=‚ÄúSTAR_VIJAY‚Äù tvg-logo="STAR_VIJAY.png" group-title="VARIETY CHANNEL",STAR VIJAY
 rtmpe://watch.playfooty.tv/live playpath=stvijay swfUrl=http://www.playfooty.tv/play/player/player.swf pageUrl=http://www.playfooty.tv live=1 timeout=15
 
-#EXTINF:-1 tvg-id=ìCOLORSî tvg-name=ìCOLORSî tvg-logo="COLORS.png" group-title="VARIETY CHANNEL",COLORS
+#EXTINF:-1 tvg-id=‚ÄúCOLORS‚Äù tvg-name=‚ÄúCOLORS‚Äù tvg-logo="COLORS.png" group-title="VARIETY CHANNEL",COLORS
 rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv/play/player/player.swf live=true timeout=15 pageUrl=http://www.playfooty.tv/
 
-#EXTINF:-1 tvg-id=ìZEE SMILEî tvg-name=ìZEE_SMILEî tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
+#EXTINF:-1 tvg-id=‚ÄúZEE SMILE‚Äù tvg-name=‚ÄúZEE_SMILE‚Äù tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
 rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìHBOî tvg-name=ìHBOî tvg-logo="HBO.png" group-title="MOVIES CHANNEL",HBO
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúHBO UNKNOWN‚Äù tvg-name=‚ÄúHBO_UNKNOWN‚Äù tvg-logo="HBO.png" group-title="MOVIES CHANNEL",HBO UNKNOWN
 rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=ìHBO HDî tvg-name=ìHBO_HDî tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
+#EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=‚ÄúHBO HD‚Äù tvg-name=‚ÄúHBO_HD‚Äù tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
 http://203.162.235.26/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìCINEMAXî tvg-name=ìCINEMAXî tvg-logo="CINEMAX.png" group-title="MOVIES CHANNEL",CINEMAX
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúCINEMAX‚Äù tvg-name=‚ÄúCINEMAX‚Äù tvg-logo="CINEMAX.png" group-title="MOVIES CHANNEL",CINEMAX
 http://203.162.235.26:80/lives/origin03/cinemaxmb.isml/cinemaxmb.m3u8
 
-#EXTINF:-1 tvg-shift=1 tvg-id=ìSTAR MOVIES HDî tvg-name=ìSTAR_MOVIES_HDî tvg-logo="STAR_MOVIES_HD.png" group-title="MOVIES CHANNEL",STAR MOVIES HD
+#EXTINF:-1 tvg-shift=1 tvg-id=‚ÄúSTAR MOVIES HD‚Äù tvg-name=‚ÄúSTAR_MOVIES_HD‚Äù tvg-logo="STAR_MOVIES_HD.png" group-title="MOVIES CHANNEL",STAR MOVIES HD
 http://203.162.235.26/lives/origin03/moviehdmb.isml/moviehdmb.m3u8
 
-#EXTINF:-1 tvg-id=ìMGM MOVIESî tvg-name=ìMGM_MOVIESî tvg-logo="MGM_MOVIES.png" group-title="MOVIES CHANNEL",MGM MOVIES
+#EXTINF:-1 tvg-id=‚ÄúMGM MOVIES‚Äù tvg-name=‚ÄúMGM_MOVIES‚Äù tvg-logo="MGM_MOVIES.png" group-title="MOVIES CHANNEL",MGM MOVIES
 http://202.75.23.35/live/ch40/03.m3u8
 
-#EXTINF:-1 tvg-id=ìJGO MOVIESî tvg-name=ìJGO_MOVIESî tvg-logo="JGO_MOVIES.png" group-title="MOVIES CHANNEL",JGO MOVIES
+#EXTINF:-1 tvg-id=‚ÄúJGO MOVIES‚Äù tvg-name=‚ÄúJGO_MOVIES‚Äù tvg-logo="JGO_MOVIES.png" group-title="MOVIES CHANNEL",JGO MOVIES
 http://202.75.23.49:1400/live/ch4/01.m3u8
 
-#EXTINF:-1 tvg-id=ìSKY MOVIES PREMIEREî tvg-name=ìSKY_MOVIES_PREMIEREî tvg-logo="SKY_MOVIES_PREMIERE.png" group-title="MOVIES CHANNEL",SKY MOVIES PREMIERE
+#EXTINF:-1 tvg-id=‚ÄúSKY MOVIES PREMIERE‚Äù tvg-name=‚ÄúSKY_MOVIES_PREMIERE‚Äù tvg-logo="SKY_MOVIES_PREMIERE.png" group-title="MOVIES CHANNEL",SKY MOVIES PREMIERE
 rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY MOVIES CRIME & THRILLERî tvg-name=ìSKY_MOVIES_CRIME_&_THRILLERî tvg-logo="SKY_MOVIES_CRIME_AND_THRILLER.png" group-title="MOVIES CHANNEL",SKY MOVIES CRIME & THRILLER
+#EXTINF:-1 tvg-id=‚ÄúSKY MOVIES CRIME & THRILLER‚Äù tvg-name=‚ÄúSKY_MOVIES_CRIME_&_THRILLER‚Äù tvg-logo="SKY_MOVIES_CRIME_AND_THRILLER.png" group-title="MOVIES CHANNEL",SKY MOVIES CRIME & THRILLER
 rtmpe://46.246.29.160:1935/live/ playpath=thriller swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY MOVIES ACTION & ADVENTUREî tvg-name=ìSKY_MOVIES_ACTION_&_ADVENTUREî tvg-logo="SKY_MOVIES_ACTION_AND_ADVENTURE.png" group-title="MOVIES CHANNEL",SKY MOVIES ACTION & ADVENTURE
+#EXTINF:-1 tvg-id=‚ÄúSKY MOVIES ACTION & ADVENTURE‚Äù tvg-name=‚ÄúSKY_MOVIES_ACTION_&_ADVENTURE‚Äù tvg-logo="SKY_MOVIES_ACTION_AND_ADVENTURE.png" group-title="MOVIES CHANNEL",SKY MOVIES ACTION & ADVENTURE
 rtmpe://46.246.29.160:1935/live/ playpath=action swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY MOVIES MODERN GREATSî tvg-name=ìSKY_MOVIES_MODERN_GREATSî tvg-logo="SKY_MOVIES_MODERN_GREATS.png" group-title="MOVIES CHANNEL",SKY MOVIES MODERN GREATS
+#EXTINF:-1 tvg-id=‚ÄúSKY MOVIES MODERN GREATS‚Äù tvg-name=‚ÄúSKY_MOVIES_MODERN_GREATS‚Äù tvg-logo="SKY_MOVIES_MODERN_GREATS.png" group-title="MOVIES CHANNEL",SKY MOVIES MODERN GREATS
 rtmpe://46.246.29.160:1935/live/ playpath=greats swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY MOVIES SCIFI & HORRORî tvg-name=ìSKY_MOVIES_SCIFI_&_HORRORî tvg-logo="SKY_MOVIES_SCIFI_AND_HORROR.png" group-title="MOVIES CHANNEL",SKY MOVIES SCIFI & HORROR
+#EXTINF:-1 tvg-id=‚ÄúSKY MOVIES SCIFI & HORROR‚Äù tvg-name=‚ÄúSKY_MOVIES_SCIFI_&_HORROR‚Äù tvg-logo="SKY_MOVIES_SCIFI_AND_HORROR.png" group-title="MOVIES CHANNEL",SKY MOVIES SCIFI & HORROR
 rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìB4U MOVIESî tvg-name=ìB4U_MOVIESî tvg-logo="B4U_MOVIES.png" group-title="MOVIES CHANNEL",B4U MOVIES
+#EXTINF:-1 tvg-id=‚ÄúB4U MOVIES‚Äù tvg-name=‚ÄúB4U_MOVIES‚Äù tvg-logo="B4U_MOVIES.png" group-title="MOVIES CHANNEL",B4U MOVIES
 rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-movies/ token=Vu4KaBzaxa
 
-#EXTINF:-1 tvg-id=ìASTRO ARENAî tvg-name=ìASTRO_ARENAî tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
+#EXTINF:-1 tvg-id=‚ÄúPINK ACTION MOVIES‚Äù tvg-name=‚ÄúPINK_ACTION_MOVIES‚Äù tvg-logo="PINK_ACTION_MOVIES.png" group-title="MOVIES CHANNEL",PINK ACTION MOVIES
+
+
+#EXTINF:-1 tvg-id=‚ÄúASTRO ARENA‚Äù tvg-name=‚ÄúASTRO_ARENA‚Äù tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
 http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
 
-#EXTINF:-1 tvg-id=ìASN SPORTSî tvg-name=ìASN_SPORTSî tvg-logo="ASN_SPORTS.png" group-title="SPORTS CHANNEL",ASN SPORTS
+#EXTINF:-1 tvg-id=‚ÄúASN SPORTS‚Äù tvg-name=‚ÄúASN_SPORTS‚Äù tvg-logo="ASN_SPORTS.png" group-title="SPORTS CHANNEL",ASN SPORTS
 http://202.75.23.33/live/ch26/03.m3u8
 
-#EXTINF:-1 tvg-id=ìSETANTA SPORTSî tvg-name=ìSETANTA_SPORTSî tvg-logo="SETANTA_SPORTS.png" group-title="SPORTS CHANNEL",SETANTA SPORTS
+#EXTINF:-1 tvg-id=‚ÄúSETANTA SPORTS‚Äù tvg-name=‚ÄúSETANTA_SPORTS‚Äù tvg-logo="SETANTA_SPORTS.png" group-title="SPORTS CHANNEL",SETANTA SPORTS
 http://202.75.23.36/live/ch44/03.m3u8
 
-#EXTINF:-1 tvg-id=ìEURO SPORTSî tvg-name=ìEURO_SPORTSî tvg-logo="EURO_SPORTS.png" group-title="SPORTS CHANNEL",EURO SPORTS
+#EXTINF:-1 tvg-id=‚ÄúEURO SPORTS‚Äù tvg-name=‚ÄúEURO_SPORTS‚Äù tvg-logo="EURO_SPORTS.png" group-title="SPORTS CHANNEL",EURO SPORTS
 http://202.75.23.37/live/ch21/03.m3u8
 
-#EXTINF:-1 tvg-id=ìESPNî tvg-name=ìESPNî tvg-logo="ESPN.png" group-title="SPORTS CHANNEL",ESPN
+#EXTINF:-1 tvg-id=‚ÄúESPN‚Äù tvg-name=‚ÄúESPN‚Äù tvg-logo="ESPN.png" group-title="SPORTS CHANNEL",ESPN
 rtmp://46.246.29.142:1935/stream/ playpath=546yrgv.stream swfUrl=http://thecdn.04stream.com/p/ooolo1.swf live=1 pageUrl=http://www.04stream.com/ebb.php?adsp=other&width=600&height=460&st=y264x236v59406144333r2q2b413p2q2u274q2u2z294&adx=&stream=z2b4549474s254m5e42323v26403w2l2z274y2u4o4k5n434w233m22464b4v2u2u2a4v274a443r223x284s4w5k5i2k5p5r4b4b4g466p2o2n4r204p2q274h5t2a4s294q2g524n5d4y27474e4k5c4y2x233v26474g564q2h59413b4z2w234t2o2l2r204p2q2r2g5p4&sooor=MzI=&str=is&idom=www.firstrow1.eu
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS 1î tvg-name=ìSKY_SPORTS_1î tvg-logo="SKY_SPORTS_1.png" group-title="SPORTS CHANNEL",SKY SPORTS 1
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS 1‚Äù tvg-name=‚ÄúSKY_SPORTS_1‚Äù tvg-logo="SKY_SPORTS_1.png" group-title="SPORTS CHANNEL",SKY SPORTS 1
 rtmpe://46.246.124.30:1935/live/ playpath=sskys1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS 2î tvg-name=ìSKY_SPORTS_2î tvg-logo="SKY_SPORTS_2.png" group-title="SPORTS CHANNEL",SKY SPORTS 2
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS 2‚Äù tvg-name=‚ÄúSKY_SPORTS_2‚Äù tvg-logo="SKY_SPORTS_2.png" group-title="SPORTS CHANNEL",SKY SPORTS 2
 rtmpe://46.246.124.30:1935/live/ playpath=sskys2 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS 3î tvg-name=ìSKY_SPORTS_3î tvg-logo="SKY_SPORTS_3.png" group-title="SPORTS CHANNEL",SKY SPORTS 3
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS 3‚Äù tvg-name=‚ÄúSKY_SPORTS_3‚Äù tvg-logo="SKY_SPORTS_3.png" group-title="SPORTS CHANNEL",SKY SPORTS 3
 rtmpe://46.246.124.30:1935/live/ playpath=sskys3 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS 4î tvg-name=ìSKY_SPORTS_4î tvg-logo="SKY_SPORTS_4.png" group-title="SPORTS CHANNEL",SKY SPORTS 4
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS 4‚Äù tvg-name=‚ÄúSKY_SPORTS_4‚Äù tvg-logo="SKY_SPORTS_4.png" group-title="SPORTS CHANNEL",SKY SPORTS 4
 rtmp://31.220.0.82:1935/live playpath=s4 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS 5î tvg-name=ìSKY_SPORTS_5î tvg-logo="SKY_SPORTS_5.png" group-title="SPORTS CHANNEL",SKY SPORTS 5
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS 5‚Äù tvg-name=‚ÄúSKY_SPORTS_5‚Äù tvg-logo="SKY_SPORTS_5.png" group-title="SPORTS CHANNEL",SKY SPORTS 5
 rtmp://31.220.0.82:1935/live playpath=s5 swfUrl=http://www.flashtv.co/ePlayerr.swf live=1 pageUrl=http://www.flashtv.co/ token=%ZZri(nKa@#Z
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS F1î tvg-name=ìSKY_SPORTS_F1î tvg-logo="SKY_SPORTS_F1.png" group-title="SPORTS CHANNEL",SKY SPORTS F1
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS F1‚Äù tvg-name=‚ÄúSKY_SPORTS_F1‚Äù tvg-logo="SKY_SPORTS_F1.png" group-title="SPORTS CHANNEL",SKY SPORTS F1
 rtmpe://46.246.124.30:1935/live/ playpath=sskysf1 swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY SPORTS NEWSî tvg-name=ìSKY_SPORTS_NEWSî tvg-logo="SKY_SPORTS_NEWS.png" group-title="SPORTS CHANNEL",SKY SPORTS NEWS
+#EXTINF:-1 tvg-id=‚ÄúSKY SPORTS NEWS‚Äù tvg-name=‚ÄúSKY_SPORTS_NEWS‚Äù tvg-logo="SKY_SPORTS_NEWS.png" group-title="SPORTS CHANNEL",SKY SPORTS NEWS
 rtmpe://46.246.124.30:1935/live/ playpath=sskysn swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys1&vw=640&vh=460&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
 
-#EXTINF:-1 tvg-id=ìSKY POKERî tvg-name=ìSKY_POKERî tvg-logo="SKY_POKER.png" group-title="SPORTS CHANNEL",SKY POKER
+#EXTINF:-1 tvg-id=‚ÄúSKY POKER‚Äù tvg-name=‚ÄúSKY_POKER‚Äù tvg-logo="SKY_POKER.png" group-title="SPORTS CHANNEL",SKY POKER
 rtmp://rtmp.playback.cdn1.showcaster.com/orcadigital-live06/_definst_/ playpath=stream1352471543352014903_hi swfUrl=https://c177371.ssl.cf3.rackcdn.com/jwplayer.commercial-5.9.swf pageUrl=https://play.showcaster.com/moduleVideoPlayer.jsp?SEID=135247&isMainCanvas=FALSE
 
-#EXTINF:-1 tvg-id=ìAT THE RACESî tvg-name=ìAT_THE_RACESî tvg-logo="AT_THE_RACES.png" group-title="SPORTS CHANNEL",AT THE RACES
+#EXTINF:-1 tvg-id=‚ÄúAT THE RACES‚Äù tvg-name=‚ÄúAT_THE_RACES‚Äù tvg-logo="AT_THE_RACES.png" group-title="SPORTS CHANNEL",AT THE RACES
 rtmp://89.248.168.130:443/liverepeater playpath=8 swfUrl=http://filotv.pw/atdedead.swf live=1 pageUrl=http://filotv.pw/ token=#atd%#$ZH
 
-#EXTINF:-1 tvg-id=ìRACING UKî tvg-name=ìRACING_UKî tvg-logo="RACING_UK.png" group-title="SPORTS CHANNEL",RACING UK
+#EXTINF:-1 tvg-id=‚ÄúRACING UK‚Äù tvg-name=‚ÄúRACING_UK‚Äù tvg-logo="RACING_UK.png" group-title="SPORTS CHANNEL",RACING UK
 rtmp://89.248.174.51:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player3.php?id=1&width=640&height=460 live=1 token=#atd%#$ZH
 
-#EXTINF:-1 tvg-id=ìREDBULL SPORTSî tvg-name=ìREDBULL_SPORTSî tvg-logo="REDBULL_SPORTS.png" group-title="SPORTS CHANNEL",REDBULL SPORTS
+#EXTINF:-1 tvg-id=‚ÄúREDBULL SPORTS‚Äù tvg-name=‚ÄúREDBULL_SPORTS‚Äù tvg-logo="REDBULL_SPORTS.png" group-title="SPORTS CHANNEL",REDBULL SPORTS
 http://live.iphone.redbull.de.edgesuite.net/webtvHD.m3u8
 
-#EXTINF:-1 tvg-id=ìFIGHT SPORTSî tvg-name=ìFIGHT_SPORTSî tvg-logo="FIGHT_SPORTS.png" group-title="SPORTS CHANNEL",FIGHT SPORTS
+#EXTINF:-1 tvg-id=‚ÄúFIGHT SPORTS‚Äù tvg-name=‚ÄúFIGHT_SPORTS‚Äù tvg-logo="FIGHT_SPORTS.png" group-title="SPORTS CHANNEL",FIGHT SPORTS
 http://202.75.23.37/live/ch20/03.m3u8
 
-#EXTINF:-1 tvg-id=ìWWE NETWORKî tvg-name=ìWWE_NETWORKî tvg-logo="WWE_NETWORK.png" group-title="SPORTS CHANNEL",WWE NETWORK
+#EXTINF:-1 tvg-id=‚ÄúWWE NETWORK‚Äù tvg-name=‚ÄúWWE_NETWORK‚Äù tvg-logo="WWE_NETWORK.png" group-title="SPORTS CHANNEL",WWE NETWORK
 rtmp://80.82.65.237:443/liverepeater playpath=46 swfUrl=http://static.surk.tv/atdedead.swf pageUrl=http://filotv.pw/player2.php?id=1&width=640&height=460 token=#atd%#$ZH
 
-#EXTINF:-1 tvg-id=ìBIG TEN NETWORKî tvg-name=ìBIG_TEN_NETWORKî tvg-logo="BIG_TEN_NETWORK.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK
+#EXTINF:-1 tvg-id=‚ÄúBIG TEN NETWORK‚Äù tvg-name=‚ÄúBIG_TEN_NETWORK‚Äù tvg-logo="BIG_TEN_NETWORK.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_1840.m3u8
 
-#EXTINF:-1 tvg-id=ìBIG TEN NETWORK HDî tvg-name=ìBIG_TEN_NETWORK_HDî tvg-logo="BIG_TEN_NETWORK_HD.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK HD
+#EXTINF:-1 tvg-id=‚ÄúBIG TEN NETWORK HD‚Äù tvg-name=‚ÄúBIG_TEN_NETWORK_HD‚Äù tvg-logo="BIG_TEN_NETWORK_HD.png" group-title="SPORTS CHANNEL",BIG TEN NETWORK HD
 http://bigten247.cdnak.bigtenhd.neulion.com/nlds/btn2go/btnnetwork/as/live/btnnetwork_hd_3000.m3u8
 
-#EXTINF:-1 tvg-id=ìNBA TVî tvg-name=ìNBA_TVî tvg-logo="NBA_TV.png" group-title="SPORTS CHANNEL",NBA TV
+#EXTINF:-1 tvg-id=‚ÄúNBA TV‚Äù tvg-name=‚ÄúNBA_TV‚Äù tvg-logo="NBA_TV.png" group-title="SPORTS CHANNEL",NBA TV
 rtmp://31.7.58.122:1935/stream/I8s9S4H7.stream swfUrl=http://thecdn.04stream.com/p/bbp.swf live=true pageUrl=http://www.04stream.com/
 
-#EXTINF:-1 tvg-id=ìBEIN SPORTS 1î tvg-name=ìBEIN_SPORTS_1î tvg-logo="BEIN_SPORTS_1.png" group-title="SPORTS CHANNEL",BEIN SPORTS 1
+#EXTINF:-1 tvg-id=‚ÄúBEIN SPORTS 1‚Äù tvg-name=‚ÄúBEIN_SPORTS_1‚Äù tvg-logo="BEIN_SPORTS_1.png" group-title="SPORTS CHANNEL",BEIN SPORTS 1
 http://202.75.23.37/live/ch18/03.m3u8
 
-#EXTINF:-1 tvg-id=ìBEIN SPORTS 2î tvg-name=ìBEIN_SPORTS_2î tvg-logo="BEIN_SPORTS_2.png" group-title="SPORTS CHANNEL",BEIN SPORTS 2
+#EXTINF:-1 tvg-id=‚ÄúBEIN SPORTS 2‚Äù tvg-name=‚ÄúBEIN_SPORTS_2‚Äù tvg-logo="BEIN_SPORTS_2.png" group-title="SPORTS CHANNEL",BEIN SPORTS 2
 http://202.75.23.37/live/ch19/03.m3u8
 
-#EXTINF:-1 tvg-id=ìASTRO AWANIî tvg-name=ìASTRO_AWANIî tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
+#EXTINF:-1 tvg-id=‚ÄúASTRO AWANI‚Äù tvg-name=‚ÄúASTRO_AWANI‚Äù tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
 rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
 
-#EXTINF:-1 tvg-id=ìBES 1î tvg-name=ìBES_1î tvg-logo="BES_1.png" group-title="NEWS CHANNEL",BES 1
+#EXTINF:-1 tvg-id=‚ÄúBES 1‚Äù tvg-name=‚ÄúBES_1‚Äù tvg-logo="BES_1.png" group-title="NEWS CHANNEL",BES 1
 http://supercharged.stream.my/live/ngrp:rtm-ch008.stream_desktop/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ì1 NEWSî tvg-name=ì1_NEWSî tvg-logo="1_NEWS.png" group-title="NEWS CHANNEL",1 NEWS
+#EXTINF:-1 tvg-id=‚Äú1 NEWS‚Äù tvg-name=‚Äú1_NEWS‚Äù tvg-logo="1_NEWS.png" group-title="NEWS CHANNEL",1 NEWS
 http://supercharged.stream.my/live/ngrp:rtm-ch020.stream_desktop/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìCHANNEL NEWS ASIAî tvg-name=ìCHANNEL_NEWS_ASIAî tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-id=‚ÄúCHANNEL NEWS ASIA‚Äù tvg-name=‚ÄúCHANNEL_NEWS_ASIA‚Äù tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
 http://202.75.23.37/live/ch15/03.m3u8
 
-#EXTINF:-1 tvg-id=ìCHANNEL NEWS ASIAî tvg-name=ìCHANNEL_NEWS_ASIAî tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
+#EXTINF:-1 tvg-id=‚ÄúCHANNEL NEWS ASIA‚Äù tvg-name=‚ÄúCHANNEL_NEWS_ASIA‚Äù tvg-logo="CHANNEL_NEWS_ASIA.png" group-title="NEWS CHANNEL",CHANNEL NEWS ASIA
 http://cna_hls-lh.akamaihd.net/i/cna_en@8000/master.m3u8
 
-#EXTINF:-1 tvg-id=ìBERITA SATUî tvg-name=ìBERITA_SATUî tvg-logo="BERITA_SATU.png" group-title="NEWS CHANNEL",BERITA SATU
+#EXTINF:-1 tvg-id=‚ÄúBERITA SATU‚Äù tvg-name=‚ÄúBERITA_SATU‚Äù tvg-logo="BERITA_SATU.png" group-title="NEWS CHANNEL",BERITA SATU
 http://202.75.23.50:1400/live/ch13/03.m3u8
 
-#EXTINF:-1 tvg-id=ìBERITA SATU WORLDî tvg-name=ìBERITA_SATU_WORLDî tvg-logo="BERITA_SATU_WORLD.png" group-title="NEWS CHANNEL",BERITA SATU WORLD
+#EXTINF:-1 tvg-id=‚ÄúBERITA SATU WORLD‚Äù tvg-name=‚ÄúBERITA_SATU_WORLD‚Äù tvg-logo="BERITA_SATU_WORLD.png" group-title="NEWS CHANNEL",BERITA SATU WORLD
 http://202.75.23.49:1400/live/ch2/03.m3u8
 
-#EXTINF:-1 tvg-id=ìNHK WORLDî tvg-name=ìNHK_WORLDî tvg-logo="NHK_WORLD.png" group-title="NEWS CHANNEL",NHK WORLD
+#EXTINF:-1 tvg-id=‚ÄúNHK WORLD‚Äù tvg-name=‚ÄúNHK_WORLD‚Äù tvg-logo="NHK_WORLD.png" group-title="NEWS CHANNEL",NHK WORLD
 http://nhkworldlive-lh.akamaihd.net/i/nhkworld_w@145835/index_512_av-b.m3u8?sd=10&rebase=on
 
-#EXTINF:-1 tvg-id=ìAL JAZEERAî tvg-name=ìAL_JAZEERAî tvg-logo="Al_JAZEERA.png" group-title="NEWS CHANNEL",AL JAZEERA
+#EXTINF:-1 tvg-id=‚ÄúAL JAZEERA‚Äù tvg-name=‚ÄúAL_JAZEERA‚Äù tvg-logo="Al_JAZEERA.png" group-title="NEWS CHANNEL",AL JAZEERA
 rtmp://hd2.lsops.net/live playpath=aljazeer_en_372 swfUrl=http://static.ls-cdn.com/player/5.10/livestation-player.swf pageURL=http://www.livestation.com/channels/3-al-jazeera-english-english
 
-#EXTINF:-1 tvg-id=ìCNBCî tvg-name=ìCNBCî tvg-logo="CNBC.png" group-title="NEWS CHANNEL",CNBC
+#EXTINF:-1 tvg-id=‚ÄúCNBC‚Äù tvg-name=‚ÄúCNBC‚Äù tvg-logo="CNBC.png" group-title="NEWS CHANNEL",CNBC
 http://livestation_hls-lh.akamaihd.net/i/cnbc_en@106428/master.m3u8
 
-#EXTINF:-1 tvg-id=ìBBC WORLD NEWSî tvg-name=ìBBC_WORLD_NEWSî tvg-logo="BBC_WORLD_NEWS.png" group-title="NEWS CHANNEL",BBC WORLD NEWS
+#EXTINF:-1 tvg-id=‚ÄúBBC WORLD NEWS‚Äù tvg-name=‚ÄúBBC_WORLD_NEWS‚Äù tvg-logo="BBC_WORLD_NEWS.png" group-title="NEWS CHANNEL",BBC WORLD NEWS
 http://hd4.lsops.net/live/bbcnews_en_hls.smil/chunklist_w311815633_b364000.m3u8
 
-#EXTINF:-1 tvg-id=ìBLOOMBERG TVî tvg-name=ìBLOOMBERG_TVî tvg-logo="BLOOMBERG_TV.png" group-title="NEWS CHANNEL",BLOOMBERG TV
+#EXTINF:-1 tvg-id=‚ÄúBLOOMBERG TV‚Äù tvg-name=‚ÄúBLOOMBERG_TV‚Äù tvg-logo="BLOOMBERG_TV.png" group-title="NEWS CHANNEL",BLOOMBERG TV
 http://blivehd-lh.akamaihd.net/z/asia_1@143161/manifest.f4m?hdcore=1
 
-#EXTINF:-1 tvg-id=ìBLOOMBERG TVî tvg-name=ìBLOOMBERG_TVî tvg-logo="BLOOMBERG_TV.png" group-title="NEWS CHANNEL",BLOOMBERG TV
+#EXTINF:-1 tvg-id=‚ÄúBLOOMBERG TV‚Äù tvg-name=‚ÄúBLOOMBERG_TV‚Äù tvg-logo="BLOOMBERG_TV.png" group-title="NEWS CHANNEL",BLOOMBERG TV
 http://hd4.lsops.net/live/bloomber_en_hls.smil/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìBLOOMBERG INDONESIAî tvg-name=ìBLOOMBERG_INDONESIAî tvg-logo="BLOOMBERG_INDONESIA.png" group-title="NEWS CHANNEL",BLOOMBERG INDONESIA
+#EXTINF:-1 tvg-id=‚ÄúBLOOMBERG INDONESIA‚Äù tvg-name=‚ÄúBLOOMBERG_INDONESIA‚Äù tvg-logo="BLOOMBERG_INDONESIA.png" group-title="NEWS CHANNEL",BLOOMBERG INDONESIA
 rtmp://stream.bloombergindonesia.tv/live/ playpath=btvi swfUrl=http://cdn.indostreamix.com/player/jwplayer5/player.swf pageUrl=http://www.indostreamix.com/2013/12/bloomberg-tv-indonesia-live-streaming.html
 
-#EXTINF:-1 tvg-id=ìCNNî tvg-name=ìCNNî tvg-logo="CNN.png" group-title="NEWS CHANNEL",CNN
+#EXTINF:-1 tvg-id=‚ÄúCNN‚Äù tvg-name=‚ÄúCNN‚Äù tvg-logo="CNN.png" group-title="NEWS CHANNEL",CNN
 http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
 
-#EXTINF:-1 tvg-id=ìREUTERSî tvg-name=ìREUTERSî tvg-logo="REUTERS.png" group-title="NEWS CHANNEL",REUTERS
+#EXTINF:-1 tvg-id=‚ÄúREUTERS‚Äù tvg-name=‚ÄúREUTERS‚Äù tvg-logo="REUTERS.png" group-title="NEWS CHANNEL",REUTERS
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
 #EXTINF:-1 radio="true" tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM.FM
