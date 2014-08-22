@@ -56,14 +56,8 @@ http://202.75.23.33:1400/live/ch22/03.m3u8
 #EXTINF:-1 tvg-id=“GLOBAL TV” tvg-name=“GLOBAL_TV” tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
 http://edge.okeinfo.net:1935/live/mncoke2_512.stream/playlist.m3u8?wowzasessionid=1001664917
 
-#EXTINF:-1 tvg-id=“GLOBAL TV” tvg-name=“GLOBAL_TV” tvg-logo="GLOBAL_TV.png" group-title="INDONESIAN TV CHANNEL",GLOBAL TV
-http://cdn.mivo.tv/mivotvjkt/globaltv2/playlist.m3u8?token=#8888#9999 timeout=30
-
 #EXTINF:-1 tvg-id=“MNC TV” tvg-name=“MNC_TV” tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
 http://edge.okeinfo.net:1935/live/mncoke3_512.stream/chunklist_b125000_w2028109213.m3u8
-
-#EXTINF:-1 tvg-id=“MNC TV” tvg-name=“MNC_TV” tvg-logo="MNC_TV.png" group-title="INDONESIAN TV CHANNEL",MNC TV
-http://cdn.mivo.tv/mivotvjkt/mnctv2/playlist.m3u8?token=#8888#9999 timeout=30
 
 #EXTINF:-1 tvg-id=“ANTV” tvg-name=“ANTV” tvg-logo="ANTV.png" group-title="INDONESIAN TV CHANNEL",ANTV
 http://202.75.23.50:1400/live/ch7/03.m3u8
@@ -74,14 +68,8 @@ http://202.75.23.50:1400/live/ch9/03.m3u8
 #EXTINF:-1 tvg-id=“TVRI” tvg-name=“TVRI” tvg-logo="TVRI.png" group-title="INDONESIAN TV CHANNEL",TVRI
 http://202.75.23.33:1400/live/ch25/03.m3u8
 
-#EXTINF:-1 tvg-id=“MIVO TV” tvg-name=“MIVO_TV” tvg-logo="MIVO_TV.png" group-title="INDONESIAN TV CHANNEL",MIVO TV
-http://cdn.mivo.tv/mivotvjkt/mivotv_480p/playlist.m3u8?token=#8888#9999 timeout=30
-
 #EXTINF:-1 tvg-id=“RTV” tvg-name=“RTV” tvg-logo="RTV.png" group-title="INDONESIAN TV CHANNEL",RTV
 http://180.250.29.12/jhos/rtv_3/Playlist.m3u8
-
-#EXTINF:-1 tvg-id=“DAAITV” tvg-name=“DAAITV” tvg-logo="DAAITV.png" group-title="INDONESIAN TV CHANNEL",DAAITV
-http://cdn.mivo.tv/mivotvjkt/daaitv2/playlist.m3u8?token=#8888#9999 timeout=30
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_640x360_800kbps.stream/playlist.m3u8
