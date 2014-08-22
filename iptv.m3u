@@ -443,3 +443,39 @@ http://astro1.rastream.com/myfm?type=.flv
 #EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA.FM
 http://astro3.rastream.com/raaga?type=.flv
 
+#EXTINF:-1 tvg-id=“PINK COMEDY” tvg-name=“PINK_COMEDY” tvg-logo="PINK_COMEDY.png" group-title="TESTING",PINK COMEDY
+http://146.0.42.56:2040
+
+#EXTINF:-1 tvg-id=“PINK PREMIUM” tvg-name=“PINK_PREMIUM” tvg-logo="PINK_PREMIUM.png" group-title="TESTING",PINK PREMIUM
+http://146.0.42.56:17087
+
+#EXTINF:-1 tvg-id=“PINK FILM” tvg-name=“PINK_FILM” tvg-logo="PINK_FILM.png" group-title="TESTING",PINK FILM
+http://146.0.42.56:2043
+
+#EXTINF:-1 tvg-id=“PINK ACTION 2” tvg-name=“PINK_ACTION_2” tvg-logo="PINK_ACTION_2.png" group-title="TESTING",PINK ACTION 2
+http://146.0.42.56:2021
+
+#EXTINF:-1 tvg-id=“PINK ACTION 3” tvg-name=“PINK_ACTION_3” tvg-logo="PINK_ACTION_3.png" group-title="TESTING",PINK ACTION 3
+http://146.0.42.56:2022
+
+#EXTINF:-1 tvg-id=“PINK MOVIES 2” tvg-name=“PINK_MOVIES_2” tvg-logo="PINK_MOVIES_2.png" group-title="TESTING",PINK MOVIES 2
+http://146.0.42.56:2019
+
+#EXTINF:-1 tvg-id=“PINK MOVIES 3” tvg-name=“PINK_MOVIES_3” tvg-logo="PINK_MOVIES_3.png" group-title="TESTING",PINK MOVIES 3
+http://146.0.42.56:2020
+
+#EXTINF:-1 tvg-id=“PINK HORROR” tvg-name=“PINK_HORROR” tvg-logo="PINK_HORROR.png" group-title="TESTING",PINK HORROR
+http://146.0.42.56:2038
+
+#EXTINF:-1 tvg-id=“PINK SOAP” tvg-name=“PINK_SOAP” tvg-logo="PINK_SOAP.png" group-title="TESTING",PINK SOAP
+http://146.0.42.56:2026
+
+#EXTINF:-1 tvg-id=“PINK KIDS” tvg-name=“PINK_KIDS” tvg-logo="PINK_KIDS.png" group-title="TESTING",PINK KIDS
+http://146.0.42.56:3448
+
+#EXTINF:-1 tvg-id=“FOX LIFE” tvg-name=“FOX_LIFE” tvg-logo="FOX_LIFE.png" group-title="TESTING",FOX LIFE
+http://146.0.42.56:2070
+
+#EXTINF:-1 tvg-id=“FOX CRIME” tvg-name=“FOX_CRIME” tvg-logo="FOX_CRIME.png" group-title="TESTING",FOX CRIME
+http://146.0.42.56:2070
+
