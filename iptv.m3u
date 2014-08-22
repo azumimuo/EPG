@@ -17,13 +17,13 @@ http://8tvliveios-i.akamaihd.net/hls/live/205901/ios/8tvlive/master.m3u8
 #EXTINF:-1 tvg-id=“TV9” tvg-name=“TV9” tvg-logo="TV9.png" group-title="MALAYSIAN TV CHANNEL",TV9
 http://tv9liveios-i.akamaihd.net/hls/live/205903/ios/tv9live/master.m3u8
 
-#EXTINF:-1 tvg-id=“ALHIJRAH” tvg-name=“ALHIJRAH” tvg-logo="AL_HIJRAH.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
+#EXTINF:-1 tvg-id=“AL HIJRAH” tvg-name=“AL_HIJRAH” tvg-logo="AL_HIJRAH.png" group-title="MALAYSIAN TV CHANNEL",AL HIJRAH
 http://stream2.1malaysiaiptv.com:1935/mylive/alhijrah_600k/chunklist_w477609690_b508239.m3u8
 
 #EXTINF:-1 tvg-id=“TVI” tvg-name=“TVI” tvg-logo="TVi.png" group-title="MALAYSIAN TV CHANNEL",TVI
 http://supercharged.stream.my/live/ngrp:rtm-ch005.stream_all/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“MUZIKAKTIF” tvg-name=“MUZIKAKTIF” tvg-logo="MUZIK_AKTIF.png" group-title="MALAYSIAN TV CHANNEL",MUZIK AKTIF
+#EXTINF:-1 tvg-id=“MUZIK AKTIF” tvg-name=“MUZIK_AKTIF” tvg-logo="MUZIK_AKTIF.png" group-title="MALAYSIAN TV CHANNEL",MUZIK AKTIF
 http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 
 #EXTINF:-1 tvg-id=“TV PARLIMEN” tvg-name=“TV_PARLIMEN” tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
