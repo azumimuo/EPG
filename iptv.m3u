@@ -276,7 +276,7 @@ rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/
 rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-movies/ token=Vu4KaBzaxa
 
 #EXTINF:-1 tvg-id=“PINK ACTION MOVIES” tvg-name=“PINK_ACTION_MOVIES” tvg-logo="PINK_ACTION_MOVIES.png" group-title="MOVIES CHANNEL",PINK ACTION MOVIES
-
+http://146.0.42.56:2021
 
 #EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
 http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
