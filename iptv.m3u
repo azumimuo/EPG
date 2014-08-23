@@ -17,6 +17,39 @@ http://www.youtube.com/
 #EXTINF:-1,[COLOR blue] --------------------------- [/COLOR]
 http://www.youtube.com/
 
+#EXTINF:-1,[COLOR blue] -- FOOTBALL MATCH CHANNEL -- [/COLOR]
+http://www.youtube.com/
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Chelsea vs Leicester City [/COLOR]
+rtmp://46.28.53.6:443/liverepeater playpath=10 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=10&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Crystal Palace vs West Ham United [/COLOR]
+rtmp://37.58.68.245:443/liverepeater playpath=11 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=11&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Southampton vs West Bromwich Albion [/COLOR]
+rtmp://199.195.195.116:443/liverepeater playpath=12 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=12&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Swansea City vs Burnley [/COLOR]
+rtmp://206.190.150.36:443/liverepeater playpath=13 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=13&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Championship Derby County vs Fulham [/COLOR]
+rtmp://50.97.142.186:443/liverepeater playpath=7 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=7&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Allsvenskan Malm FF vs Norrkping [/COLOR]
+rtmp://173.193.219.178:443/liverepeater playpath=21 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=21&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] Scottish Championship Rangers vs Dumbarton [/COLOR]
+rtmp://173.193.219.178:443/liverepeater playpath=2 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://thesun.pw/player2.php?id=2&width=640&height=460 token=#atd%#$ZH
+
+#EXTINF:-1 tvg-logo=" ",[COLOR green] First Division Doxa vs Ermis [/COLOR]
+rtmp://94.102.56.211:443/liverepeater playpath=9 swfUrl=http://static.surk.tv/atdedead.swf live=1 pageUrl=http://xxcast.pm/player2.php?id=9&width=640&height=460 token=#atd%#$ZH
+
+
+
+
+#EXTINF:-1,[COLOR blue] --------------------------- [/COLOR]
+http://www.youtube.com/
+
 #EXTINF:-1,[COLOR green] -- MALAYSIAN TV CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
