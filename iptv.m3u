@@ -143,7 +143,7 @@ http://202.75.23.37:1400/live/ch50/03.m3u8
 #EXTINF:-1 tvg-id=“CHANNEL V” tvg-name=“CHANNEL_V” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
 http://27.131.149.39/channelv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id=“NOW THATS WHAT I CALL MUSIC” tvg-name=“NOW_THATS_WHAT_I_CALL_MUSIC” tvg-logo="NOW_MUSIC.png" group-title="MUSIC CHANNEL",NOW THATS WHAT I CALL MUSIC
+#EXTINF:-1 tvg-id=“NOW MUSIC” tvg-name=“NOW_MUSIC” tvg-logo="NOW_MUSIC.png" group-title="MUSIC CHANNEL",NOW THATS WHAT I CALL MUSIC
 http://rrr.sz.xlcdn.com/?account=AATW&file=nowmusic&type=live&service=wowza&protocol=http&output=playlist.m3u8|User-Agent=SimpleTV
 
 #EXTINF:-1 tvg-id=“CLUBLAND MUSIC” tvg-name=“CLUBLAND_MUSIC” tvg-logo="CLUBLAND_MUSIC.png" group-title="MUSIC CHANNEL",CLUBLAND MUSIC
@@ -185,7 +185,7 @@ http://202.75.23.36/live/ch47/03.m3u8
 #EXTINF:-1 tvg-id=“LIFETIME” tvg-name=“LIFETIME” tvg-logo="LIFETIME.png" group-title="VARIETY CHANNEL",LIFETIME
 http://202.75.23.36/live/ch48/03.m3u8
 
-#EXTINF:-1 tvg-id=“HI!TV” tvg-name=“HI!TV” tvg-logo="HI!_TV.png" group-title="VARIETY CHANNEL",HI! TV
+#EXTINF:-1 tvg-id=“HI TV” tvg-name=“HI_TV” tvg-logo="HI_TV.png" group-title="VARIETY CHANNEL",HI TV
 http://202.75.23.49/live/ch5/03.m3u8
 
 #EXTINF:-1 tvg-id=“NET. TV” tvg-name=“NET._TV” tvg-logo="NET._TV.png" group-title="VARIETY CHANNEL",NET. TV
@@ -259,9 +259,6 @@ rtmpe://46.246.29.160:1935/live/ playpath=scifi swfUrl=http://player.hdcast.org/
 
 #EXTINF:-1 tvg-id=“B4U MOVIES” tvg-name=“B4U_MOVIES” tvg-logo="B4U_MOVIES.png" group-title="MOVIES CHANNEL",B4U MOVIES
 rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl=http://www.turbotv.in/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf pageUrl=http://www.turbotv.in/b4u-movies/ token=Vu4KaBzaxa
-
-#EXTINF:-1 tvg-id=“PINK ACTION MOVIES” tvg-name=“PINK_ACTION_MOVIES” tvg-logo="PINK_ACTION_MOVIES.png" group-title="MOVIES CHANNEL",PINK ACTION MOVIES
-http://146.0.42.56:2021
 
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" " group-title="MOVIES CHANNEL",24/7 MOVIES HD
 rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
@@ -451,6 +448,9 @@ http://146.0.42.56:17087
 
 #EXTINF:-1 tvg-id=“PINK FILM” tvg-name=“PINK_FILM” tvg-logo="PINK_FILM.png" group-title="TESTING",PINK FILM
 http://146.0.42.56:2043
+
+#EXTINF:-1 tvg-id=“PINK ACTION MOVIES” tvg-name=“PINK_ACTION_MOVIES” tvg-logo="PINK_ACTION_MOVIES.png" group-title="TESTING",PINK ACTION MOVIES
+http://146.0.42.56:2021
 
 #EXTINF:-1 tvg-id=“PINK ACTION 2” tvg-name=“PINK_ACTION_2” tvg-logo="PINK_ACTION_2.png" group-title="TESTING",PINK ACTION 2
 http://146.0.42.56:2021
