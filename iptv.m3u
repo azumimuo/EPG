@@ -5,7 +5,7 @@ http://www.youtube.com/
 #EXTINF:-1,[COLOR blue]- ---------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red]MASTER FRODO & AZUMIMUO[/COLOR]
+#EXTINF:-1,[COLOR red]MASTER FRODO & AZUMI[/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1,[COLOR red]WORLD OF ANDROID[/COLOR]
@@ -167,11 +167,11 @@ http://202.75.23.33/live/ch27/03.m3u8
 #EXTINF:-1 tvg-id=“J KIDS TV” tvg-name=“J_KIDS_TV” tvg-logo="J KIDS TV.png" group-title="KIDS CHANNEL",J KIDS TV
 rtmp://111.118.21.75/ptv2/ playpath=phd169 swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://111.118.21.75/ptv2&file=phd169&autostart=true pageUrl=objectEncoding
 
-#EXTINF:-1 tvg-id=“NAT GEO CHANNEL - IND” tvg-name=“NAT_GEO_CHANNEL_-_IND” tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
-http://202.75.23.35/live/ch38/03.m3u8
-
 #EXTINF:-1,[COLOR red] -- EDUCATION CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“NAT GEO CHANNEL - IND” tvg-name=“NAT_GEO_CHANNEL_-_IND” tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
+http://202.75.23.35/live/ch38/03.m3u8
 
 #EXTINF:-1 tvg-id=“NAT GEO WILD - IND” tvg-name=“NAT_GEO_WILD_-_IND” tvg-logo="NAT_GEO_WILD.png" group-title="EDUCATION CHANNEL",NAT GEO WILD - IND
 http://202.75.23.35/live/ch39/03.m3u8
