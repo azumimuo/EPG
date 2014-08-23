@@ -8,16 +8,19 @@ http://www.youtube.com/
 #EXTINF:-1,[COLOR red] WORLD OF ANDROID [/COLOR]
 http://www.youtube.com/
 
+#EXTINF:-1,[COLOR red] FACEBOOK COMMUNITY [/COLOR]
+http://www.youtube.com/
+
 #EXTINF:-1,[COLOR red] LIVE TV & RADIO LIST [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR blue] -- Updated 20/08/2014 13:06 -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- Updated 20/08/2014 13:06 -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1,[COLOR blue] --------------------------- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR blue] -- FOOTBALL MATCH -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- FOOTBALL MATCH -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-logo=" ",[COLOR green] Chelsea vs Leicester City [/COLOR]
@@ -50,7 +53,7 @@ rtmp://94.102.56.211:443/liverepeater playpath=9 swfUrl=http://static.surk.tv/at
 #EXTINF:-1,[COLOR blue] --------------------------- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR green] -- MALAYSIAN TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- MALAYSIAN TV CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1” tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
@@ -83,13 +86,13 @@ http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id=“TV PARLIMEN” tvg-name=“TV_PARLIMEN” tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR green] -- BRUNEI TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- BRUNEI TV CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“RTB 4 INTERNATIONAL” tvg-name=“RTB_4_INTERNATIONAL” tvg-logo="RTB_4_INTERNATIONAL.png" group-title="BRUNEI TV CHANNEL",RTB 4 INTERNATIONAL
 rtsp://202.160.15.86/stream-03-512
 
-#EXTINF:-1,[COLOR green] -- INDONESIAN TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- INDONESIAN TV CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
@@ -131,7 +134,7 @@ http://202.75.23.33:1400/live/ch25/03.m3u8
 #EXTINF:-1 tvg-id=“RTV” tvg-name=“RTV” tvg-logo="RTV.png" group-title="INDONESIAN TV CHANNEL",RTV
 http://180.250.29.12/jhos/rtv_3/Playlist.m3u8
 
-#EXTINF:-1,[COLOR green] -- KIDS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- KIDS CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
@@ -191,7 +194,7 @@ http://202.75.23.36/live/ch45/03.m3u8
 #EXTINF:-1 tvg-id=“NASA TV EDUCATIONAL” tvg-name=“NASA_TV_EDUCATIONAL” tvg-logo="NASA_TV_EDUCATIONAL.png" group-title="EDUCATION CHANNEL",NASA TV EDUCATIONAL
 http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/live.m3u8
 
-#EXTINF:-1,[COLOR green] -- MUSIC CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- MUSIC CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“INDOMIX” tvg-name=“INDOMIX” tvg-logo="INDOMIX.png" group-title="MUSIC CHANNEL",INDOMIX
@@ -299,7 +302,7 @@ rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv
 #EXTINF:-1 tvg-id=“ZEE SMILE” tvg-name=“ZEE_SMILE” tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
 rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/
 
-#EXTINF:-1,[COLOR green] -- MOVIES CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- MOVIES CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=“HBO HD” tvg-name=“HBO_HD” tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
@@ -338,7 +341,7 @@ rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" " group-title="MOVIES CHANNEL",24/7 MOVIES HD
 rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,[COLOR green] -- SPORTS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- SPORTS CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
@@ -410,7 +413,7 @@ http://202.75.23.37/live/ch18/03.m3u8
 #EXTINF:-1 tvg-id=“BEIN SPORTS 2” tvg-name=“BEIN_SPORTS_2” tvg-logo="BEIN_SPORTS_2.png" group-title="SPORTS CHANNEL",BEIN SPORTS 2
 http://202.75.23.37/live/ch19/03.m3u8
 
-#EXTINF:-1,[COLOR green] -- NEWS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- NEWS CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO_AWANI” tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
@@ -461,7 +464,7 @@ http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id=“REUTERS” tvg-name=“REUTERS” tvg-logo="REUTERS.png" group-title="NEWS CHANNEL",REUTERS
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR green] -- MALAYSIAN RADIO CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- MALAYSIAN RADIO CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 radio="true" tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM.FM
@@ -524,7 +527,7 @@ http://astro1.rastream.com/myfm?type=.flv
 #EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA.FM
 http://astro3.rastream.com/raaga?type=.flv
 
-#EXTINF:-1,[COLOR green] -- TESTING CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- TESTING CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“PINK COMEDY” tvg-name=“PINK_COMEDY” tvg-logo="PINK_COMEDY.png" group-title="TESTING",PINK COMEDY
