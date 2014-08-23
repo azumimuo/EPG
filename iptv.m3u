@@ -209,26 +209,11 @@ http://202.75.23.49/live/ch3/03.m3u8
 #EXTINF:-1 tvg-id=“KITA TV” tvg-name=“KITA_TV” tvg-logo="KITA_TV.png" group-title="MUSIC CHANNEL",KITA TV
 rtmp://kitatv.com/live/ playpath=myStream swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://kitatv.com/live&file=myStream&autostart=true pageUrl=objectEncoding
 
-#EXTINF:-1 tvg-id=“MTV HITS” tvg-name=“MTV_HITS” tvg-logo="MTV_HITS.png" group-title="MUSIC CHANNEL",MTV HITS
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV HITS” tvg-name=“MTV_HITS” tvg-logo="MTV_HITS.png" group-title="MUSIC CHANNEL",MTV HITS
 http://202.75.23.35:1400/live/ch42/01.m3u8
 
-#EXTINF:-1 tvg-id=“MTV LIVE” tvg-name=“MTV_LIVE” tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV LIVE” tvg-name=“MTV_LIVE” tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
 http://202.75.23.37:1400/live/ch50/03.m3u8
-
-#EXTINF:-1 tvg-id=“CHANNEL V” tvg-name=“CHANNEL_V” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
-http://27.131.149.39/channelv/live/playlist.m3u8
-
-#EXTINF:-1 tvg-id=“NOW MUSIC” tvg-name=“NOW_MUSIC” tvg-logo="NOW_MUSIC.png" group-title="MUSIC CHANNEL",NOW MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&amp;file=nowmusic&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8
-
-#EXTINF:-1 tvg-id=“CLUBLAND MUSIC” tvg-name=“CLUBLAND_MUSIC” tvg-logo="CLUBLAND_MUSIC.png" group-title="MUSIC CHANNEL",CLUBLAND MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&amp;file=clublandtv&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8
-
-#EXTINF:-1 tvg-id=“AKA MUSIC” tvg-name=“AKA_MUSIC” tvg-logo="AKA_MUSIC.png" group-title="MUSIC CHANNEL",AKA MUSIC
-http://rrr.sz.xlcdn.com/?account=AATW&amp;file=akanew&amp;type=live&amp;service=wowza&amp;protocol=http&amp;output=playlist.m3u8
-
-#EXTINF:-1 tvg-id=“KERRANG” tvg-name=“KERRANG” tvg-logo="KERRANG.png" group-title="MUSIC CHANNEL",KERRANG
-http://cdn.live.tvplayer.simplestream.com/coder2/coder.channels.channel16/hls/3/playlist.m3u8
 
 #EXTINF:-1 tvg-id=“ROCK TV” tvg-name=“ROCK_TV” tvg-logo="ROCK_TV.png" group-title="MUSIC CHANNEL",ROCK TV
 rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?861 live=1 pageUrl=http://www.lasteles.com/es/musica/ROCK/
