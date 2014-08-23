@@ -185,7 +185,7 @@ http://202.75.23.34/live/ch29/03.m3u8
 #EXTINF:-1 tvg-id=“DISCOVERY WORLD - IND” tvg-name=“DISCOVERY_WORLD_-_IND” tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD - IND
 http://202.75.23.34/live/ch30/03.m3u8
 
-#EXTINF:-1 tvg-id=“DISCOVERY WORLD” tvg-name=“DISCOVERY_WORLD” tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD
+#EXTINF:-1 tvg-id=“DISCOVERY WORLD - VIET” tvg-name=“DISCOVERY_WORLD_-_VIET” tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD - VIET
 http://203.162.235.26/lives/origin03/discoveryhdmb.isml/discoveryhdmb.m3u8
 
 #EXTINF:-1 tvg-id=“DISCOVERY SCIENCE” tvg-name=“DISCOVERY_SCIENCE” tvg-logo="DISCOVERY_SCIENCE.png" group-title="EDUCATION CHANNEL",DISCOVERY SCIENCE
