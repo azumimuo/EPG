@@ -122,17 +122,14 @@ http://202.75.23.35/live/ch36/03.m3u8
 #EXTINF:-1 tvg-id=“JIM JAM” tvg-name=“JIM_JAM” tvg-logo="JIM_JAM.png" group-title="KIDS CHANNEL",JIM JAM
 http://202.75.23.37/live/ch17/03.m3u8
 
-#EXTINF:-1 tvg-id=“TOM AND JERRY 24/7” tvg-name=“TOM_AND_JERRY_24/7” tvg-logo="TOM AND JERRY 24/7.png" group-title="KIDS CHANNEL",TOM AND JERRY 24/7
-rtmp://206.190.151.38/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
-
 #EXTINF:-1 tvg-id=“CARTOONITO” tvg-name=“CARTOONITO” tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
 http://202.75.23.36/live/ch49/03.m3u8
 
 #EXTINF:-1 tvg-id=“BABY FIRST” tvg-name=“BABY_FIRST” tvg-logo="BABY_FIRST.png" group-title="KIDS CHANNEL",BABY FIRST
 http://202.75.23.33/live/ch27/03.m3u8
 
-#EXTINF:-1 tvg-id=“J KIDS TV” tvg-name=“J_KIDS_TV” tvg-logo="J KIDS TV.png" group-title="KIDS CHANNEL",J KIDS TV
-rtmp://111.118.21.75/ptv2/ playpath=phd169 swfUrl=http://live.irib.ir/player.swf?streamer=rtmp://111.118.21.75/ptv2&file=phd169&autostart=true pageUrl=objectEncoding
+#EXTINF:-1 tvg-id=“TOM AND JERRY 24/7” tvg-name=“TOM_AND_JERRY_24/7” tvg-logo="TOM AND JERRY 24/7.png" group-title="KIDS CHANNEL",TOM AND JERRY 24/7
+rtmp://206.190.151.38/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 
 #EXTINF:-1,[COLOR red] -- EDUCATION CHANNEL -- [/COLOR]
 http://www.youtube.com/
