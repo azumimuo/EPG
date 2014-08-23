@@ -1,29 +1,29 @@
 #EXTM3U
-#EXTINF:-1,[COLOR blue] - ----------------------- - [/COLOR]
+#EXTINF:-1,[COLOR blue]- ----------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR blue] - ---------------------- - [/COLOR]
+#EXTINF:-1,[COLOR blue]- ---------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red] MASTER FRODO & AZMIMUO [/COLOR]
+#EXTINF:-1,[COLOR red]MASTER FRODO & AZUMIMUO[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red] WORLD OF ANDROID [/COLOR]
+#EXTINF:-1,[COLOR red]WORLD OF ANDROID[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red] FACEBOOK COMMUNITY [/COLOR]
+#EXTINF:-1,[COLOR red]FACEBOOK COMMUNITY[/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1,[COLOR red] LIVE TV & RADIO LIST [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR blue] - ---------------------- - [/COLOR]
+#EXTINF:-1,[COLOR blue]- ---------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR blue] - ---------------------- - [/COLOR]
+#EXTINF:-1,[COLOR blue]- ---------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR yellow] -- FOOTBALL MATCH -- [/COLOR]
+#EXTINF:-1,[COLOR yellow]-- FOOTBALL MATCH --[/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-logo=" ",[COLOR green] Chelsea vs Leicester City [/COLOR]
@@ -56,7 +56,7 @@ rtmp://94.102.56.211:443/liverepeater playpath=9 swfUrl=http://static.surk.tv/at
 #EXTINF:-1,[COLOR blue] --------------------------- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red] -- MALAYSIAN TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- MALAYSIAN TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1” tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
@@ -89,13 +89,13 @@ http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id=“TV PARLIMEN” tvg-name=“TV_PARLIMEN” tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR red] -- BRUNEI TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- BRUNEI TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“RTB 4 INTERNATIONAL” tvg-name=“RTB_4_INTERNATIONAL” tvg-logo="RTB_4_INTERNATIONAL.png" group-title="BRUNEI TV CHANNEL",RTB 4 INTERNATIONAL
 rtsp://202.160.15.86/stream-03-512
 
-#EXTINF:-1,[COLOR red] -- INDONESIAN TV CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- INDONESIAN TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
@@ -170,7 +170,7 @@ rtmp://111.118.21.75/ptv2/ playpath=phd169 swfUrl=http://live.irib.ir/player.swf
 #EXTINF:-1 tvg-id=“NAT GEO CHANNEL - IND” tvg-name=“NAT_GEO_CHANNEL_-_IND” tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
 http://202.75.23.35/live/ch38/03.m3u8
 
-#EXTINF:-1,[COLOR green] -- EDUCATION CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- EDUCATION CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“NAT GEO WILD - IND” tvg-name=“NAT_GEO_WILD_-_IND” tvg-logo="NAT_GEO_WILD.png" group-title="EDUCATION CHANNEL",NAT GEO WILD - IND
@@ -236,7 +236,7 @@ rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com
 #EXTINF:-1 tvg-id=“GOTICA TV” tvg-name=“GOTICA_TV” tvg-logo="GOTICA_TV.png" group-title="MUSIC CHANNEL",GOTICA TV
 rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?236 live=1 pageUrl=http://www.lasteles.com/es/musica/GOTICA/
 
-#EXTINF:-1,[COLOR green] -- VARIETY CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR red] -- VARIETY CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“AXN” tvg-name=“AXN” tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
