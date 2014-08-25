@@ -521,3 +521,6 @@ http://146.0.42.56:2070
 #EXTINF:-1 tvg-id=“FOX CRIME” tvg-name=“FOX_CRIME” tvg-logo="FOX_CRIME.png" group-title="TESTING",FOX CRIME
 http://146.0.42.56:2070
 
+#EXTINF:-1 tvg-id=“BEIN SPORTS 2” tvg-name=“BEIN_SPORTS_2” tvg-logo="BEIN_SPORTS.png" group-title="TESTING",BEIN SPORTS 2
+rtmpe://46.246.124.29:1935/live playpath=jsc2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
+
