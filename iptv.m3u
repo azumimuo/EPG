@@ -515,8 +515,14 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=82c764aa2d7
 #EXTINF:-1 tvg-id=“SKY NEWS HD” tvg-name=“SKY_NEWS_HD” tvg-logo="SKY_NEWS_HD.png" group-title="NEWS CHANNEL",SKY NEWS HD
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff
 
+#EXTINF:-1 tvg-shift=0 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO_AWANI” tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
+http://playback01.aotg-video.astro.com.my/AWANI/master.m3u8
+
 #EXTINF:-1 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO_AWANI” tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
 rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“BERNAMA TV” tvg-name=“BERNAMA_TV” tvg-logo="BERNAMA_TV.png" group-title="NEWS CHANNEL",BERNAMA TV
+http://w2s.layarku.tv:1935/mylive/bernama2_all.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id=“BES 1” tvg-name=“BES_1” tvg-logo="BES_1.png" group-title="NEWS CHANNEL",BES 1
 http://supercharged.stream.my/live/ngrp:rtm-ch008.stream_desktop/playlist.m3u8
