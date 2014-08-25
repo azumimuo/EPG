@@ -485,6 +485,8 @@ http://www.youtube.com/
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN
 rtmp://204.107.26.252:8086/live/393.high.stream
 
-#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN 2
-rtmp://mi1.gv.filmon.com:8086/live/13.low.stream
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR WORLD HD” tvg-name=“STAR_WORLD_HD” tvg-logo="STAR_WORLD_HD.png" group-title="VARIETY CHANNEL",STAR WORLD HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+
+
 
