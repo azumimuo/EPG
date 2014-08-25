@@ -482,6 +482,6 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:-1,[COLOR red] -- TESTING CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1 tvg-id=“FILM 4” tvg-name=“FILM_4” tvg-logo="FILM_4.png" group-title="TESTING",FILM 4
-rtmp://204.107.26.252:8086/live/13.high.stream
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN
+rtmp://204.107.26.252:8086/live/393.high.stream
 
