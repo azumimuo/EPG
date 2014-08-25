@@ -482,48 +482,6 @@ http://astro3.rastream.com/raaga?type=.flv
 #EXTINF:-1,[COLOR red] -- TESTING CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1 tvg-id=“PINK COMEDY” tvg-name=“PINK_COMEDY” tvg-logo="PINK_COMEDY.png" group-title="TESTING",PINK COMEDY
-http://146.0.42.56:2040
-
-#EXTINF:-1 tvg-id=“PINK PREMIUM” tvg-name=“PINK_PREMIUM” tvg-logo="PINK_PREMIUM.png" group-title="TESTING",PINK PREMIUM
-http://146.0.42.56:17087
-
-#EXTINF:-1 tvg-id=“PINK FILM” tvg-name=“PINK_FILM” tvg-logo="PINK_FILM.png" group-title="TESTING",PINK FILM
-http://146.0.42.56:2043
-
-#EXTINF:-1 tvg-id=“PINK ACTION MOVIES” tvg-name=“PINK_ACTION_MOVIES” tvg-logo="PINK_ACTION_MOVIES.png" group-title="TESTING",PINK ACTION MOVIES
-http://146.0.42.56:2021
-
-#EXTINF:-1 tvg-id=“PINK ACTION 2” tvg-name=“PINK_ACTION_2” tvg-logo="PINK_ACTION_2.png" group-title="TESTING",PINK ACTION 2
-http://146.0.42.56:2021
-
-#EXTINF:-1 tvg-id=“PINK ACTION 3” tvg-name=“PINK_ACTION_3” tvg-logo="PINK_ACTION_3.png" group-title="TESTING",PINK ACTION 3
-http://146.0.42.56:2022
-
-#EXTINF:-1 tvg-id=“PINK MOVIES 2” tvg-name=“PINK_MOVIES_2” tvg-logo="PINK_MOVIES_2.png" group-title="TESTING",PINK MOVIES 2
-http://146.0.42.56:2019
-
-#EXTINF:-1 tvg-id=“PINK MOVIES 3” tvg-name=“PINK_MOVIES_3” tvg-logo="PINK_MOVIES_3.png" group-title="TESTING",PINK MOVIES 3
-http://146.0.42.56:2020
-
-#EXTINF:-1 tvg-id=“PINK HORROR” tvg-name=“PINK_HORROR” tvg-logo="PINK_HORROR.png" group-title="TESTING",PINK HORROR
-http://146.0.42.56:2038
-
-#EXTINF:-1 tvg-id=“PINK SOAP” tvg-name=“PINK_SOAP” tvg-logo="PINK_SOAP.png" group-title="TESTING",PINK SOAP
-http://146.0.42.56:2026
-
-#EXTINF:-1 tvg-id=“PINK KIDS” tvg-name=“PINK_KIDS” tvg-logo="PINK_KIDS.png" group-title="TESTING",PINK KIDS
-http://146.0.42.56:3448
-
-#EXTINF:-1 tvg-id=“FOX LIFE” tvg-name=“FOX_LIFE” tvg-logo="FOX_LIFE.png" group-title="TESTING",FOX LIFE
-http://146.0.42.56:2070
-
-#EXTINF:-1 tvg-id=“FOX CRIME” tvg-name=“FOX_CRIME” tvg-logo="FOX_CRIME.png" group-title="TESTING",FOX CRIME
-http://146.0.42.56:2070
-
-#EXTINF:-1 tvg-id=“BEIN SPORTS 2” tvg-name=“BEIN_SPORTS_2” tvg-logo="BEIN_SPORTS.png" group-title="TESTING",BEIN SPORTS 2
-rtmpe://46.246.124.29:1935/live playpath=jsc2 swfUrl=http://www.hdcast.org/players.swf live=1 pageUrl=http://www.hdcast.org/ token=#yw%tt#w@kku
-
 #EXTINF:-1 tvg-id=“FILM 4” tvg-name=“FILM_4” tvg-logo="FILM_4.png" group-title="TESTING",FILM 4
-rtsp://live303.edge.filmon.com:1935/live/13.high.stream/?id=0ad5aac39bb13fbecc09094b0212c3c44dd08ceee9333494c10c4f508c69e56f8d7b589d9ff758b6e5d16da1f4ea97054f453bdd8dc911ff33ac2bd92ea9eb7359afef704088b9b37a8f82f34e25e13b72508022a896efc05b6919cb7f9e4f8fa183397e15599cb8521b29ad6d0a50befe4166e64844771098b85c628263d9079fab181000b689f57f2ff7e9dc98636ed6f0af60ca66154c
+rtmp://204.107.26.252:8086/live/13.high.stream
 
