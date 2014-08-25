@@ -221,6 +221,9 @@ rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js
 #EXTINF:-1,[COLOR yellow] -- VARIETY CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo="ONE_HD.png" group-title="TESTING",ONE HD
+rtmp://111.118.21.75:1935/ptv2/phd1
+
 #EXTINF:-1 tvg-shift=1 tvg-id=“DW TV” tvg-name=“DW_TV” tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV ASIA
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=6de1e752a9974a5980166483c8ed6bb8
 
