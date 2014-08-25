@@ -485,3 +485,6 @@ http://www.youtube.com/
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN
 rtmp://204.107.26.252:8086/live/393.high.stream
 
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN 2
+rtmp://mi1.gv.filmon.com:8086/live/13.low.stream
+
