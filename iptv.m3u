@@ -23,7 +23,7 @@ http://www.youtube.com/
 #EXTINF:-1,[COLOR blue]- ---------------------- -[/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1,[COLOR red] -- MALAYSIAN TV -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- MALAYSIAN TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“TV1” tvg-name=“TV1” tvg-logo="TV1.png" group-title="MALAYSIAN TV CHANNEL",TV1
@@ -56,13 +56,13 @@ http://supercharged.stream.my/live/ngrp:rtm-ch006.stream_all/playlist.m3u8
 #EXTINF:-1 tvg-id=“TV PARLIMEN” tvg-name=“TV_PARLIMEN” tvg-logo="TV_PARLIMEN.png" group-title="MALAYSIAN TV CHANNEL",TV PARLIMEN
 http://supercharged.stream.my/live/ngrp:rtm-ch009.stream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR red] -- BRUNEI TV -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- BRUNEI TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“RTB 4 INTERNATIONAL” tvg-name=“RTB_4_INTERNATIONAL” tvg-logo="RTB_4_INTERNATIONAL.png" group-title="BRUNEI TV CHANNEL",RTB 4 INTERNATIONAL
 rtsp://202.160.15.86/stream-03-512
 
-#EXTINF:-1,[COLOR red] -- INDONESIAN TV -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- INDONESIAN TV -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“SCTV” tvg-name=“SCTV” tvg-logo="SCTV.png" group-title="INDONESIAN TV CHANNEL",SCTV
@@ -104,8 +104,26 @@ http://202.75.23.33:1400/live/ch25/03.m3u8
 #EXTINF:-1 tvg-id=“RTV” tvg-name=“RTV” tvg-logo="RTV.png" group-title="INDONESIAN TV CHANNEL",RTV
 http://180.250.29.12/jhos/rtv_3/Playlist.m3u8
 
-#EXTINF:-1,[COLOR red] -- KIDS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- KIDS CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“NICK JUNIOR” tvg-name=“NICK_JUNIOR” tvg-logo="NICK_JUNIOR.png" group-title="KIDS CHANNEL",NICK JUNIOR
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2b72986be9314c139db95f6098d1c413
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“JIM JAM” tvg-name=“JIM_JAM” tvg-logo="JIM_JAM.png" group-title="KIDS CHANNEL",JIM JAM
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=1c660656441b4aa3b57bd1d80c7d14fa
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“CARTOONITO” tvg-name=“CARTOONITO” tvg-logo="CARTOONITO.png" group-title="KIDS CHANNEL",CARTOONITO
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dff1502eb25c4912aea009df5d0fde9b
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BABY TV” tvg-name=“BABY_TV” tvg-logo="BABY_TV.png" group-title="KIDS CHANNEL",BABY TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7773f3cef0334a28ad248552ea63d9e7
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ANIMAX” tvg-name=“ANIMAX” tvg-logo="ANIMAX.png" group-title="KIDS CHANNEL",ANIMAX
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb847c78432270e23ddca73
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BOOMERANG” tvg-name=“BOOMERANG” tvg-logo="BOOMERANG.png" group-title="KIDS CHANNEL",BOOMERANG
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
 http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_640x360_800kbps.stream/playlist.m3u8
@@ -131,7 +149,7 @@ http://202.75.23.33/live/ch27/03.m3u8
 #EXTINF:-1 tvg-id=“TOM AND JERRY 24/7” tvg-name=“TOM_AND_JERRY_24/7” tvg-logo="TOM AND JERRY 24/7.png" group-title="KIDS CHANNEL",TOM AND JERRY 24/7
 rtmp://206.190.151.38/ctv playpath=tom swfUrl=http://www.canaistv.net/swf/player.swf live=1 pageUrl=http://www.canaistv.net/tvamigos/tomejerry.html
 
-#EXTINF:-1,[COLOR red] -- EDUCATION CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- EDUCATION CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“NAT GEO CHANNEL - IND” tvg-name=“NAT_GEO_CHANNEL_-_IND” tvg-logo="NAT_GEO_CHANNEL.png" group-title="EDUCATION CHANNEL",NAT GEO CHANNEL - IND
@@ -161,8 +179,23 @@ http://202.75.23.36/live/ch45/03.m3u8
 #EXTINF:-1 tvg-id=“NASA TV EDUCATIONAL” tvg-name=“NASA_TV_EDUCATIONAL” tvg-logo="NASA_TV_EDUCATIONAL.png" group-title="EDUCATION CHANNEL",NASA TV EDUCATIONAL
 http://iphone-streaming.ustream.tv/ustreamVideo/10208765/streams/live/live.m3u8
 
-#EXTINF:-1,[COLOR red] -- MUSIC CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- MUSIC CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“MTV ASIA” tvg-name=“MTV_ASIA” tvg-logo="MTV.png" group-title="MUSIC CHANNEL",MTV ASIA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ebce2f5139c54eda8b111e5923af9c9e
+
+#EXTINF:-1 tvg-shift=0 tvg-id=“MTV LIVE” tvg-name=“MTV_LIVE” tvg-logo="MTV_LIVE.png" group-title="MUSIC CHANNEL",MTV LIVE
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8d45473ff4ca44d79e1abc4516c2fee0
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL V” tvg-name=“CHANNEL_V” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9e38a0084e6d45d080139a166c60a102
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL V CHINA” tvg-name=“CHANNEL_V_CHINA” tvg-logo="CHANNEL_V.png" group-title="MUSIC CHANNEL",CHANNEL V CHINA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9102f3553f3246ecbbc9738dd4803344
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“NAT GEO MUSIC” tvg-name=“NAT_GEO_MUSIC” tvg-logo="NAT_GEO_MUSIC.png" group-title="MUSIC CHANNEL",NAT GEO MUSIC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=69c2eab6794344619a049c5dea60ca22
 
 #EXTINF:-1 tvg-id=“INDOMIX” tvg-name=“INDOMIX” tvg-logo="INDOMIX.png" group-title="MUSIC CHANNEL",INDOMIX
 http://202.75.23.49/live/ch1/03.m3u8
@@ -185,8 +218,89 @@ rtmp://149.11.34.78/live playpath=imprestv.stream swfUrl=http://www.lasteles.com
 #EXTINF:-1 tvg-id=“GOTICA TV” tvg-name=“GOTICA_TV” tvg-logo="GOTICA_TV.png" group-title="MUSIC CHANNEL",GOTICA TV
 rtmp://149.11.34.6/live playpath=gotica.stream swfUrl=http://www.lasteles.com/js/mediaplayer-5.10/player.swf?236 live=1 pageUrl=http://www.lasteles.com/es/musica/GOTICA/
 
-#EXTINF:-1,[COLOR red] -- VARIETY CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- VARIETY CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“DW TV” tvg-name=“DW_TV” tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV ASIA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=6de1e752a9974a5980166483c8ed6bb8
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“FOX CRIME HD” tvg-name=“FOX_CRIME_HD” tvg-logo="FOX_CRIME_HD.png" group-title="VARIETY CHANNEL",FOX CRIME HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5028f7ff1d1b4d5f8189690233364737
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“FX HD” tvg-name=“FX_HD” tvg-logo="FX_HD.png" group-title="VARIETY CHANNEL",FX HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2e0e4b05aa6e428593f3b45b710045b7
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“SYFY” tvg-name=“SYFY” tvg-logo="SYFY.png" group-title="VARIETY CHANNEL",SYFY
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=71f197de056e499a85265c03b44bdab1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“SONY ENTERTAINMENT” tvg-name=“SONY_ENTERTAINMENT” tvg-logo="SONY_ENTERTAINMENT.png" group-title="VARIETY CHANNEL",SONY ENTERTAINMENT
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=bd30e27f1c48430ba2104548a1b124ca
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“UNIVERSAL CHANNEL” tvg-name=“UNIVERSAL_CHANNEL” tvg-logo="UNIVERSAL_CHANNEL.png" group-title="VARIETY CHANNEL",UNIVERSAL CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=a7105ed1bb0a44bba1f4f71f2352b892
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“WARNER BROS TV” tvg-name=“WARNER_BROS_TV” tvg-logo="WARNER_BROS_TV.png" group-title="VARIETY CHANNEL",WARNER BROS TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06e717f5ec0c4657a8c76c4dfcf9449b
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“KIX” tvg-name=“KIX” tvg-logo="KIX.png" group-title="VARIETY CHANNEL",KIX
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e584e0adae6440eab366f5fe3a824f91
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR WORLD HD” tvg-name=“STAR_WORLD_HD” tvg-logo="STAR_WORLD_HD.png" group-title="VARIETY CHANNEL",STAR WORLD HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“COMEDY CENTRAL HD” tvg-name=“COMEDY_CENTRAL_HD” tvg-logo="COMEDY_CENTRAL_HD.png" group-title="VARIETY CHANNEL",COMEDY CENTRAL HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=2f18d4ba25224edaa8bb9aac94b00d4f
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BIO HD” tvg-name=“BIO_HD” tvg-logo="BIO_HD.png" group-title="VARIETY CHANNEL",BIO HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8c49d827190b4b29a9d5e3be92e5054c
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“BIO HD” tvg-name=“BIO_HD” tvg-logo="BIO_HD.png" group-title="VARIETY CHANNEL",BIO HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=169a149fd1ef40edba0bbfc8e0f1bdd1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CRIME & INVESTIGATION HD” tvg-name=“CRIME_&_INVESTIGATION_HD” tvg-logo="CI_HD.png" group-title="VARIETY CHANNEL",CRIME & INVESTIGATION HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=9961a963920f45f4bc0d81c3e478b334
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“TRAVEL CHANNEL HD” tvg-name=“TRAVEL_CHANNEL_HD” tvg-logo="TRAVEL_CHANNEL_HD.png" group-title="VARIETY CHANNEL",TRAVEL CHANNEL HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=4c136f4cb1fd4f62a583a029c2eb6c77
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“FASHION TV HD” tvg-name=“FASHION_TV_HD” tvg-logo="FASHION_TV_HD.png" group-title="VARIETY CHANNEL",FASHION TV HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=91fbba1d5af544ac92a2c64e5d177e9d
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ITV CHOICE HD” tvg-name=“ITV_CHOICE_HD” tvg-logo="ITV_CHOICE_HD.png" group-title="VARIETY CHANNEL",ITV CHOICE HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e36b99bcd26648af9db2261785c77b7a
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR CHINESE CHANNEL” tvg-name=“STAR_CHINESE_CHANNEL” tvg-logo="STAR_CHINESE_CHANNEL.png" group-title="VARIETY CHANNEL",STAR CHINESE CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=29a09591a6604ff3b798cd7ef809e4bd
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CCTV4” tvg-name=“CCTV4” tvg-logo="CCTV4.png" group-title="VARIETY CHANNEL",CCTV4
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=5289381709e64f8db14a4ed75ab2b59f
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CCTV9” tvg-name=“CCTV9” tvg-logo="CCTV9.png" group-title="VARIETY CHANNEL",CCTV9
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=b08a8052e6724bedba5399f662715ad1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR PLUS” tvg-name=“STAR_PLUS” tvg-logo="STAR_PLUS.png" group-title="VARIETY CHANNEL",STAR PLUS
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7c75ad89c1cc417aa0f066133c0a2333
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR GOLD” tvg-name=“STAR_GOLD” tvg-logo="STAR_GOLD.png" group-title="VARIETY CHANNEL",STAR GOLD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=53c2bf7e52a44fd8b6df7f9e83891bbc
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZING” tvg-name=“ZING” tvg-logo="ZING.png" group-title="VARIETY CHANNEL",ZING
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=3e30590edd7940e29335d243342fc6b0
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE CLASSIC” tvg-name=“ZEE_CLASSIC” tvg-logo="ZEE_CLASSIC.png" group-title="VARIETY CHANNEL",ZEE CLASSIC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=e2f5c5390bbb4e2781454f3f32add81c
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE ETC” tvg-name=“ZEE_ETC” tvg-logo="ZEE_ETC.png" group-title="VARIETY CHANNEL",ZEE ETC
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=dcf0d550815947f3bacaf3521e118124
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE TV” tvg-name=“ZEE_TV” tvg-logo="ZEE_TV.png" group-title="VARIETY CHANNEL",ZEE TV
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=8be5e8787848472089925a7bb7f43ef1
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“V CHANNEL” tvg-name=“V_CHANNEL” tvg-logo="V_CHANNEL.png" group-title="VARIETY CHANNEL",V CHANNEL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=09cac500285d42ec97465b2219db5f53
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CHANNEL M HD” tvg-name=“CHANNEL_M_HD” tvg-logo="CHANNEL_M_HD.png" group-title="VARIETY CHANNEL",CHANNEL M HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“AXN” tvg-name=“AXN” tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
 http://203.162.235.26/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
@@ -254,8 +368,20 @@ rtmpe://watch.playfooty.tv/live playpath=colors99 swfUrl=http://www.playfooty.tv
 #EXTINF:-1 tvg-id=“ZEE SMILE” tvg-name=“ZEE_SMILE” tvg-logo="ZEE_SMILE.png" group-title="VARIETY CHANNEL",ZEE SMILE
 rtmp://50.7.175.253:1939/base2 playpath=dd16.stream token=Vu4KaBzaxa swfUrl=http://desilivetv.net/wp-content/uploads/jw-player-plugin-for-wordpress/player/player.swf live=true timeout=15 pageUrl=http://desilivetv.net/zee-smile/
 
-#EXTINF:-1,[COLOR red] -- MOVIES CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- MOVIES CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“THRILL” tvg-name=“THRILL” tvg-logo="THRILL.png" group-title="MOVIES CHANNEL",THRILL
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=c316ed9333e54442b25077f0bb3cc269
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“CELESTIAL CLASSIC MOVIES” tvg-name=“CELESTIAL_CLASSIC_MOVIES” tvg-logo="CELESTIAL_CLASSIC_MOVIES.png" group-title="MOVIES CHANNEL",CELESTIAL CLASSIC MOVIES
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=1c2276a2f1884b269ce281c3334e8f85
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“STAR CHINESE MOVIES LEGEND” tvg-name=“STAR_CHINESE_MOVIES_LEGEND” tvg-logo="STAR_CHINESE_MOVIES_LEGEND.png" group-title="MOVIES CHANNEL",STAR CHINESE MOVIES LEGEND
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=c8233976dbba4a06a101780907447375
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“ZEE CINEMA” tvg-name=“ZEE_CINEMA” tvg-logo="ZEE_CINEMA.png" group-title="MOVIES CHANNEL",ZEE CINEMA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=18560c96b9f446bb87acb8981a2fe9c5
 
 #EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=“HBO HD” tvg-name=“HBO_HD” tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
 http://203.162.235.26/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
@@ -293,8 +419,11 @@ rtmp://50.7.175.252:1940/base2/dd25.stream app=base2 playpath=dd25.stream swfUrl
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" " group-title="MOVIES CHANNEL",24/7 MOVIES HD
 rtmp://81.17.18.2/iguide playpath=0bf02qe6msgtu4s swfUrl=http://www.iguide.to/player/secure_player_iguide_token.swf pageUrl=http://www.iguide.to/view/1/watch-live-HBO-channel-for-free swfVfy=true live=true token=#ed%h0#w18623jsda6523lDGD
 
-#EXTINF:-1,[COLOR red] -- SPORTS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- SPORTS CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-id=“TEN CRICKET” tvg-name=“TEN_CRICKET” tvg-logo="TEN_CRICKET.png" group-title="SPORTS CHANNEL",TEN CRICKET
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
 
 #EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
 http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
@@ -365,8 +494,23 @@ http://202.75.23.37/live/ch18/03.m3u8
 #EXTINF:-1 tvg-id=“BEIN SPORTS 2” tvg-name=“BEIN_SPORTS_2” tvg-logo="BEIN_SPORTS_2.png" group-title="SPORTS CHANNEL",BEIN SPORTS 2
 http://202.75.23.37/live/ch19/03.m3u8
 
-#EXTINF:-1,[COLOR red] -- NEWS CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- NEWS CHANNEL -- [/COLOR]
 http://www.youtube.com/
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“NHK WORLD” tvg-name=“NHK_WORLD” tvg-logo="NHK_WORLD.png" group-title="NEWS CHANNEL",NHK WORLD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=cd25fccffa6f4a2f8d7190d3e8907440
+
+#EXTINF:-1 tvg-shift=1 tvg-id=“AL JAZEERA” tvg-name=“AL_JAZEERA” tvg-logo="Al_JAZEERA.png" group-title="NEWS CHANNEL",AL JAZEERA
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=ea4c9d2666bc411d8e6777e8a1d2b747
+
+#EXTINF:-1 tvg-id=“MSNBC HD” tvg-name=“MSNBC_HD” tvg-logo="MSNBC.png" group-title="NEWS CHANNEL",MSNBC HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=7f2989e3f87e4efdb36bac56b64dca62
+
+#EXTINF:-1 tvg-id=“FRANCE24” tvg-name=“FRANCE24” tvg-logo="FRANCE24.png" group-title="NEWS CHANNEL",FRANCE24
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=82c764aa2d7f42579348b8717cb5b9a4
+
+#EXTINF:-1 tvg-id=“SKY NEWS HD” tvg-name=“SKY_NEWS_HD” tvg-logo="SKY_NEWS_HD.png" group-title="NEWS CHANNEL",SKY NEWS HD
+http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=31b003ab7e7749a798fe00424e3dd9ff
 
 #EXTINF:-1 tvg-id=“ASTRO AWANI” tvg-name=“ASTRO_AWANI” tvg-logo="ASTRO_AWANI.png" group-title="NEWS CHANNEL",ASTRO AWANI
 rtmpe://cp160334.live.edgefcs.net:1935/live app=live?ovpfv=1.1 playpath=AstroAwani24x7_3@74937 conn=Z: swfUrl=http://vdata.astroawani.com/flash/VideoPlayer.swf pageUrl=http://www.astroawani.com/videos/live swfVfy=true live=true timeout=15
@@ -416,7 +560,7 @@ http://178.49.132.73/streaming/cnn/tvrec/playlist.m3u8
 #EXTINF:-1 tvg-id=“REUTERS” tvg-name=“REUTERS” tvg-logo="REUTERS.png" group-title="NEWS CHANNEL",REUTERS
 http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 
-#EXTINF:-1,[COLOR red] -- MALAYSIAN RADIO CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- MALAYSIAN RADIO CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 radio="true" tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM.FM
@@ -479,14 +623,14 @@ http://astro1.rastream.com/myfm?type=.flv
 #EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA.FM
 http://astro3.rastream.com/raaga?type=.flv
 
-#EXTINF:-1,[COLOR red] -- TESTING CHANNEL -- [/COLOR]
+#EXTINF:-1,[COLOR yellow] -- TESTING CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
 #EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN
 rtmp://204.107.26.252:8086/live/393.high.stream
 
-#EXTINF:-1 tvg-shift=1 tvg-id=“STAR WORLD HD” tvg-name=“STAR_WORLD_HD” tvg-logo="STAR_WORLD_HD.png" group-title="VARIETY CHANNEL",STAR WORLD HD
-http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=65f7358b813048a0898f5677e1793cf9
+#EXTINF:-1 tvg-id=“ ” tvg-name=“ ” tvg-logo=" .png" group-title="TESTING",UNKNOWN
+
 
 
 
