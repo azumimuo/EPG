@@ -22,7 +22,4 @@ Intisari Rancangan TV Pelbagai Negara.
 
 
 
-
-Makluman :
-
-** Pihak Kami Tidak Memegang Sebarang Hak-Cipta.
+coded by NORAZMI MD RAMDAN / azumimuo
