@@ -565,65 +565,98 @@ http://37.58.85.156/rlo001/ngrp:rlo001.stream_all/playlist.m3u8
 #EXTINF:-1,[COLOR yellow] -- MALAYSIAN RADIO CHANNEL -- [/COLOR]
 http://www.youtube.com/
 
-#EXTINF:-1 radio="true" tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM.FM
+#EXTINF:-1 tvg-id="IKIM FM" tvg-name="IKIM_FM" tvg-logo="IKIM_FM.png" group-title="MALAYSIAN RADIO CHANNEL", IKIM FM
 http://50.7.96.210:8285/;stream.mp3:21
 
-#EXTINF:-1 tvg-id="NASYID FM" tvg-name="NASYID_FM" tvg-logo="NASYID_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASYID.FM
+#EXTINF:-1 tvg-id="NASYID FM" tvg-name="NASYID_FM" tvg-logo="NASYID_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASYID FM
 http://radio.nasyidfm.com.my:8000/;stream.mp3
 
-#EXTINF:-1 tvg-id="HOT FM" tvg-name="HOT_FM" tvg-logo="HOT_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HOT.FM
+#EXTINF:-1 tvg-id="HOT FM" tvg-name="HOT_FM" tvg-logo="HOT_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HOT FM
 http://2173.live.streamtheworld.com/HOTFMTGANUAAC?type=.flv
 
-#EXTINF:-1 tvg-id="ERA FM" tvg-name="ERA_FM" tvg-logo="ERA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", ERA.FM
+#EXTINF:-1 tvg-id="ERA FM" tvg-name="ERA_FM" tvg-logo="ERA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", ERA FM
 http://astro2.rastream.com/era?type=.flv
 
-#EXTINF:-1 tvg-id="SINAR FM" tvg-name="SINAR_FM" tvg-logo="SINAR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SINAR.FM
+#EXTINF:-1 tvg-id="SINAR FM" tvg-name="SINAR_FM" tvg-logo="SINAR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SINAR FM
 http://astro2.rastream.com/sinar?type=.flv
 
-#EXTINF:-1 tvg-id="SURIA FM" tvg-name="SURIA_FM" tvg-logo="SURIA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SURIA.FM
+#EXTINF:-1 tvg-id="SURIA FM" tvg-name="SURIA_FM" tvg-logo="SURIA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SURIA FM
 http://starrfm.rastream.com/starrfm-suria?type=.flv
 
-#EXTINF:-1 tvg-id="THR GEGAR" tvg-name="THR_GEGAR" tvg-logo="THR_GEGAR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR_GEGAR.FM
+#EXTINF:-1 tvg-id="THR GEGAR" tvg-name="THR_GEGAR" tvg-logo="THR_GEGAR.png" group-title="MALAYSIAN RADIO CHANNEL", THR GEGAR FM
 http://astro3.rastream.com/gegar?type=.flv
 
-#EXTINF:-1 tvg-id="MUZIK FM" tvg-name="MUZIK_FM" tvg-logo="MUZIK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MUZIK.FM
+#EXTINF:-1 tvg-id="MUZIK FM" tvg-name="MUZIK_FM" tvg-logo="MUZIK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MUZIK FM
 http://69.197.60.122:8000/;stream.mp3
 
-#EXTINF:-1 tvg-id="KLASIK NASIONAL" tvg-name="KLASIK_NASIONAL" tvg-logo="KLASIK_NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KLASIK NASIONAL.FM
+#EXTINF:-1 tvg-id="KLASIK NASIONAL" tvg-name="KLASIK_NASIONAL" tvg-logo="KLASIK_NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KLASIK NASIONAL FM
 http://turbo.stream.my/live/mp4:rtm-ch010/playlist.m3u8
 
-#EXTINF:-1 tvg-id="NASIONAL FM" tvg-name="NASIONAL_FM" tvg-logo="NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASIONAL.FM
+#EXTINF:-1 tvg-id="NASIONAL FM" tvg-name="NASIONAL_FM" tvg-logo="NASIONAL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", NASIONAL FM
 http://turbo.stream.my/live/mp4:rtm-ch011/playlist.m3u8
 
-#EXTINF:-1 tvg-id="KL FM" tvg-name="KL_FM" tvg-logo="KL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KL.FM
+#EXTINF:-1 tvg-id="KL FM" tvg-name="KL_FM" tvg-logo="KL_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KL FM
 http://turbo.stream.my/live/mp4:rtm-ch012/playlist.m3u8
 
-#EXTINF:-1 tvg-id="BEST104 FM" tvg-name="BEST104_FM" tvg-logo="BEST104_FM.png" group-title="MALAYSIAN RADIO CHANNEL", BEST104.FM
+#EXTINF:-1 tvg-id="BEST104 FM" tvg-name="BEST104_FM" tvg-logo="BEST104_FM.png" group-title="MALAYSIAN RADIO CHANNEL", BEST104 FM
 http://69.197.60.122:8000/;stream.mp3
 
-#EXTINF:-1 tvg-id="FLY FM" tvg-name="FLY_FM" tvg-logo="FLY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", FLY.FM
+#EXTINF:-1 tvg-id="FLY FM" tvg-name="FLY_FM" tvg-logo="FLY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", FLY FM
 http://7439.live.streamtheworld.com/FLYFMAAC?type=.flv
 
-#EXTINF:-1 tvg-id="HITZ FM" tvg-name="HITZ_FM" tvg-logo="HITZ_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HITZ.FM
+#EXTINF:-1 tvg-id="HITZ FM" tvg-name="HITZ_FM" tvg-logo="HITZ_FM.png" group-title="MALAYSIAN RADIO CHANNEL", HITZ FM
 http://astro1.rastream.com/hitz?type=.flv
 
-#EXTINF:-1 tvg-id="MIX FM" tvg-name="MIX_FM" tvg-logo="MIX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MIX.FM
+#EXTINF:-1 tvg-id="MIX FM" tvg-name="MIX_FM" tvg-logo="MIX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MIX FM
 http://astro2.rastream.com/mix?type=.flv
 
-#EXTINF:-1 tvg-id="RED FM" tvg-name="RED_FM" tvg-logo="RED_FM.png" group-title="MALAYSIAN RADIO CHANNEL", RED.FM
+#EXTINF:-1 tvg-id="RED FM" tvg-name="RED_FM" tvg-logo="RED_FM.png" group-title="MALAYSIAN RADIO CHANNEL", RED FM
 http://starrfm.rastream.com/starrfm-redfm?type=.flv
 
-#EXTINF:-1 tvg-id="LITE FM" tvg-name="LITE_FM" tvg-logo="LITE_FM.png" group-title="MALAYSIAN RADIO CHANNEL", LITE.FM
+#EXTINF:-1 tvg-id="LITE FM" tvg-name="LITE_FM" tvg-logo="LITE_FM.png" group-title="MALAYSIAN RADIO CHANNEL", LITE FM
 http://astro1.rastream.com/lite?type=.flv
 
-#EXTINF:-1 tvg-id="TRAXX FM" tvg-name="TRAXX_FM" tvg-logo="TRAXX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", TRAXX.FM
+#EXTINF:-1 tvg-id="TRAXX FM" tvg-name="TRAXX_FM" tvg-logo="TRAXX_FM.png" group-title="MALAYSIAN RADIO CHANNEL", TRAXX FM
 http://turbo.stream.my/live/mp4:rtm-ch013/playlist.m3u8
 
-#EXTINF:-1 tvg-id="MY FM" tvg-name="MY_FM" tvg-logo="MY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MY.FM
+#EXTINF:-1 tvg-id="MY FM" tvg-name="MY_FM" tvg-logo="MY_FM.png" group-title="MALAYSIAN RADIO CHANNEL", MY FM
 http://astro1.rastream.com/myfm?type=.flv
 
-#EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA.FM
+#EXTINF:-1 tvg-id="THR RAAGA" tvg-name="THR_RAAGA" tvg-logo="THR_RAAGA_FM.png" group-title="MALAYSIAN RADIO CHANNEL", THR RAAGA FM
 http://astro3.rastream.com/raaga?type=.flv
+
+#EXTINF:-1 tvg-id="PAHANG FM" tvg-name="PAHANG_FM" tvg-logo="PAHANG_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PAHANG FM
+http://115.133.145.203:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="PERAK FM" tvg-name="PERAK_FM" tvg-logo="PERAK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PERAK FM
+http://72.20.10.50:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="KENINGAU FM" tvg-name="KENINGAU_FM" tvg-logo="KENINGAU_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KENINGAU FM
+http://50.7.158.42:8084/;stream.mp3
+
+#EXTINF:-1 tvg-id="SARAWAK FM" tvg-name="SARAWAK_FM" tvg-logo="SARAWAK_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SARAWAK FM
+http://124.82.221.149:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SABAH FM" tvg-name="SABAH_FM" tvg-logo="SABAH_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SABAH FM
+http://s8.voscast.com:7484/;stream.mp3
+
+#EXTINF:-1 tvg-id="SABAH V FM" tvg-name="SABAH_V_FM" tvg-logo="SABAH_V_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SABAH V FM
+http://s8.voscast.com:7472/;stream.mp3
+
+#EXTINF:-1 tvg-id="KELANTAN FM" tvg-name="KELANTAN_FM" tvg-logo="KELANTAN_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KELANTAN FM
+http://72.20.10.34:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SELANGOR FM" tvg-name="SELANGOR_FM" tvg-logo="SELANGOR_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SELANGOR FM
+http://turbo.stream.my/live/mp4:rtm-ch019/manifest.f4m
+
+#EXTINF:-1 tvg-id="PERLIS FM" tvg-name="PERLIS_FM" tvg-logo="PERLIS_FM.png" group-title="MALAYSIAN RADIO CHANNEL", PERLIS FM
+http://198.154.106.102:8453/;stream.mp3
+
+#EXTINF:-1 tvg-id="KEDAH FM" tvg-name="KEDAH_FM" tvg-logo="KEDAH_FM.png" group-title="MALAYSIAN RADIO CHANNEL", KEDAH FM
+http://60.51.214.210:8000/;stream.mp3
+
+#EXTINF:-1 tvg-id="SANDAKAN FM" tvg-name="SANDAKAN_FM" tvg-logo="SANDAKAN_FM.png" group-title="MALAYSIAN RADIO CHANNEL", SANDAKAN FM
+http://50.7.158.42:8183/;stream.mp3
 
 #EXTINF:-1,[COLOR yellow] -- TESTING CHANNEL -- [/COLOR]
 http://www.youtube.com/
