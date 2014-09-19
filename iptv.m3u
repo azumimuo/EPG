@@ -119,10 +119,7 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=d3edb48a8bb
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=06c02432266f4f42b48947e075de38c5
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
-http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_640x360_800kbps.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-shift=1 tvg-id=“DISNEY CHANNEL” tvg-name=“DISNEY_CHANNEL” tvg-logo="DISNEY_CHANNEL.png" group-title="KIDS CHANNEL",DISNEY CHANNEL
-http://117.103.206.26:1935/live/_definst_/DISNEYCHANNEL/DISNEYCHANNEL_live.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id=“NICKELODEON” tvg-name=“NICKELODEON” tvg-logo="NICKELODEON.png" group-title="KIDS CHANNEL",NICKELODEON
 http://202.75.23.36/live/ch43/03.m3u8
@@ -161,7 +158,7 @@ http://202.75.23.34/live/ch29/03.m3u8
 http://202.75.23.34/live/ch30/03.m3u8
 
 #EXTINF:-1 tvg-id=“DISCOVERY WORLD - VIET” tvg-name=“DISCOVERY_WORLD_-_VIET” tvg-logo="DISCOVERY_WORLD.png" group-title="EDUCATION CHANNEL",DISCOVERY WORLD - VIET
-http://203.162.235.26/lives/origin03/discoveryhdmb.isml/discoveryhdmb.m3u8
+
 
 #EXTINF:-1 tvg-id=“DISCOVERY SCIENCE - IND” tvg-name=“DISCOVERY_SCIENCE_-_IND” tvg-logo="DISCOVERY_SCIENCE.png" group-title="EDUCATION CHANNEL",DISCOVERY SCIENCE - IND
 http://202.75.23.34/live/ch33/03.m3u8
@@ -299,7 +296,7 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=09cac500285
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?bitrate=800&channel_id=8237601ce3ea4bae8332ebb0d88dba87
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“AXN” tvg-name=“AXN” tvg-logo="AXN_HD.png" group-title="VARIETY CHANNEL",AXN HD
-http://203.162.235.26/lives/origin03/axnhdmb.isml/axnhdmb.m3u8
+
 
 #EXTINF:-1 tvg-id=“DW TV” tvg-name=“DW_TV” tvg-logo="DW_TV.png" group-title="VARIETY CHANNEL",DW TV
 http://www.metafilegenerator.de/DWelle/tv-europa/ios/master.m3u8
@@ -350,7 +347,7 @@ http://worldlive-ios.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/
 http://worldlive.arirang.co.kr/cdnlive-hls/arirangwlive/_definst_/liveevent/tvworld4.m3u8
 
 #EXTINF:-1 tvg-id=“KBS WORLD” tvg-name=“KBS_WORLD” tvg-logo="KBS_WORLD.png" group-title="VARIETY CHANNEL",KBS WORLD
-http://117.103.206.26:1935/live/_definst_/KBSWORLD/KBSWORLD_live.smil/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id=“STAR JALSHA” tvg-name=“STAR_JALSHA” tvg-logo="STAR_JALSHA.png" group-title="VARIETY CHANNEL",STAR JALSHA
 rtmp://cp133305.live.edgefcs.net/live playpath=starjalsha2@62072 swfUrl=http://lihattv.us/scripts/player.swf conn=S:OK pageUrl=http://lihattv.tv/stats?ch=premium swfVfy=true live=true
@@ -380,19 +377,19 @@ http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=c8233976dbb
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=18560c96b9f446bb87acb8981a2fe9c5
 
 #EXTINF:-1 tvg-shift=1 tvg-shift=-2 tvg-id=“HBO HD” tvg-name=“HBO_HD” tvg-logo="HBO_HD.png" group-title="MOVIES CHANNEL",HBO HD
-http://203.162.235.26/lives/origin03/hbohdmb.isml/hbohdmb.m3u8
+
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“CINEMAX” tvg-name=“CINEMAX” tvg-logo="CINEMAX.png" group-title="MOVIES CHANNEL",CINEMAX
-http://203.162.235.26:80/lives/origin03/cinemaxmb.isml/cinemaxmb.m3u8
+
 
 #EXTINF:-1 tvg-shift=1 tvg-id=“STAR MOVIES HD” tvg-name=“STAR_MOVIES_HD” tvg-logo="STAR_MOVIES_HD.png" group-title="MOVIES CHANNEL",STAR MOVIES HD
-http://203.162.235.26/lives/origin03/moviehdmb.isml/moviehdmb.m3u8
+
 
 #EXTINF:-1 tvg-id=“MGM MOVIES” tvg-name=“MGM_MOVIES” tvg-logo="MGM_MOVIES.png" group-title="MOVIES CHANNEL",MGM MOVIES
 http://202.75.23.35/live/ch40/03.m3u8
 
 #EXTINF:-1 tvg-id=“JGO MOVIES” tvg-name=“JGO_MOVIES” tvg-logo="JGO_MOVIES.png" group-title="MOVIES CHANNEL",JGO MOVIES
-http://202.75.23.49:1400/live/ch4/01.m3u8
+
 
 #EXTINF:-1 tvg-id=“SKY MOVIES PREMIERE” tvg-name=“SKY_MOVIES_PREMIERE” tvg-logo="SKY_MOVIES_PREMIERE.png" group-title="MOVIES CHANNEL",SKY MOVIES PREMIERE
 rtmpe://46.246.29.160:1935/live/ playpath=premierx swfUrl=http://player.hdcast.org/player.swf pageUrl=http://www.hdcast.org/embedlive2.php?u=sskys3&vw=854&vh=480&domain=streamking.org live=1 token=#yw%tt#w@kku timeout=15
@@ -422,7 +419,7 @@ http://www.youtube.com/
 http://secure.ilikehd.com:8080/livetv/player/totlink.m3u8?channel_id=07febaf06cea4afeba557b3836d959d6
 
 #EXTINF:-1 tvg-id=“ASTRO ARENA” tvg-name=“ASTRO_ARENA” tvg-logo="ASTRO_ARENA.png" group-title="SPORTS CHANNEL",ASTRO ARENA
-http://measatott12-i.akamaihd.net/hls/live/202869/OTT_12/master.m3u8
+
 
 #EXTINF:-1 tvg-id=“ASN SPORTS” tvg-name=“ASN_SPORTS” tvg-logo="ASN_SPORTS.png" group-title="SPORTS CHANNEL",ASN SPORTS
 http://202.75.23.33/live/ch26/03.m3u8
