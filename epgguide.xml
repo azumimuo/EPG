@@ -1,0 +1,1175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version 1.54.6/0.01 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">
+  <channel id="NORAZMI MD RAMDAN">
+    <display-name lang="en">NORAZMI MD RAMDAN</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV1">
+    <display-name lang="en">TV1</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV2">
+    <display-name lang="en">TV2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV3">
+    <display-name lang="en">TV3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NTV7">
+    <display-name lang="en">NTV7</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="8TV">
+    <display-name lang="en">8TV</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TV9">
+    <display-name lang="en">TV9</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="AL HIJRAH">
+    <display-name lang="en">AL HIJRAH</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="TVI">
+    <display-name lang="en">TVI</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MUZIK AKTIF">
+    <display-name lang="ms">MUZIK AKTIF</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/muzik-aktif.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="ASTRO RIA">
+    <display-name lang="en">ASTRO RIA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO PRIMA">
+    <display-name lang="en">ASTRO PRIMA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO WARNA">
+    <display-name lang="en">ASTRO WARNA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO CITRA">
+    <display-name lang="en">ASTRO CITRA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO OASIS">
+    <display-name lang="en">ASTRO OASIS</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO CERIA">
+    <display-name lang="en">ASTRO CERIA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO BELLA">
+    <display-name lang="en">ASTRO BELLA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BINTANG">
+    <display-name lang="en">BINTANG</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="PELANGI">
+    <display-name lang="en">PELANGI</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MUSTIKA HD">
+    <display-name lang="en">MUSTIKA HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MAYA HD">
+    <display-name lang="en">MAYA HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SCTV">
+    <display-name lang="en">SCTV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="INDOSIAR">
+    <display-name lang="en">INDOSIAR</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="RCTI">
+    <display-name lang="id">RCTI</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="TV ONE">
+    <display-name lang="en">TV ONE</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="TRANS TV">
+    <display-name lang="en">TRANS TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="TRANS 7">
+    <display-name lang="en">TRANS 7</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="METRO TV">
+    <display-name lang="en">METRO TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="GLOBAL TV">
+    <display-name lang="id">GLOBAL TV</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="MNC TV">
+    <display-name lang="id">MNC TV</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="MNC MUSLIM">
+    <display-name lang="id">MNC MUSLIM</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="MNC LIFESTYLE">
+    <display-name lang="id">MNC LIFESTYLE</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="ANTV">
+    <display-name lang="en">ANTV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="KOMPAS TV">
+    <display-name lang="en">KOMPAS TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="TVRI">
+    <display-name lang="id">TVRI</display-name>
+    <url>http://www.indovision.tv</url>
+  </channel>
+  <channel id="RTV">
+    <display-name lang="en">RTV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DAAITV">
+    <display-name lang="en">DAAITV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CARTOON NETWORK - MAL">
+    <display-name lang="en">CARTOON NETWORK - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CARTOON NETWORK">
+    <display-name lang="vi">CARTOON NETWORK</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DISNEY CHANNEL - MAL">
+    <display-name lang="en">DISNEY CHANNEL - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DISNEY CHANNEL">
+    <display-name lang="vi">DISNEY CHANNEL</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DISNEY JUNIOR - MAL">
+    <display-name lang="en">DISNEY JUNIOR - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="DISNEY JUNIOR">
+    <display-name lang="en">DISNEY JUNIOR</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DISNEY XD - MAL">
+    <display-name lang="en">DISNEY XD - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NICKELODEON - MAL">
+    <display-name lang="en">NICKELODEON - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="NICKELODEON">
+    <display-name lang="en">NICKELODEON</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NICK JUNIOR">
+    <display-name lang="en">NICK JUNIOR</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="DISCOVERY KIDS">
+    <display-name lang="en">DISCOVERY KIDS</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="JIM JAM">
+    <display-name lang="en">JIM JAM</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CARTOONITO">
+    <display-name lang="en">CARTOONITO</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BABY FIRST">
+    <display-name lang="en">BABY FIRST</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BABY TV">
+    <display-name lang="th">BABY TV</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/411BabyTV.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="ANIMAX">
+    <display-name lang="th">ANIMAX</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/263Animax.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="BOOMERANG">
+    <display-name lang="th">BOOMERANG</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/410Boomerang.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="NAT GEO CHANNEL - VIET">
+    <display-name lang="vi">NAT GEO CHANNEL - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="NAT GEO CHANNEL - THAI">
+    <display-name lang="th">NAT GEO CHANNEL - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="NAT GEO CHANNEL - IND">
+    <display-name lang="en">NAT GEO CHANNEL - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO WILD - IND">
+    <display-name lang="en">NAT GEO WILD - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO WILD - VIET">
+    <display-name lang="en">NAT GEO WILD - VIET</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO WILD - THAI">
+    <display-name lang="en">NAT GEO WILD - THAI</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO PEOPLE - IND">
+    <display-name lang="en">NAT GEO PEOPLE - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NAT GEO PEOPLE - VIET">
+    <display-name lang="vi">NAT GEO PEOPLE - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="ANIMAL PLANET - VIET">
+    <display-name lang="vi">ANIMAL PLANET - VIET</display-name>
+    <url>http://www.vtvcab.vn</url>
+  </channel>
+  <channel id="ANIMAL PLANET - IND">
+    <display-name lang="en">ANIMAL PLANET - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="ANIMAL PLANET - THAI">
+    <display-name lang="th">ANIMAL PLANET - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL - VIET">
+    <display-name lang="vi">DISCOVERY CHANNEL - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL - IND">
+    <display-name lang="en">DISCOVERY CHANNEL - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY CHANNEL - THAI">
+    <display-name lang="th">DISCOVERY CHANNEL - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="HISTORY CHANNEL - IND">
+    <display-name lang="en">HISTORY CHANNEL - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="HISTORY CHANNEL - THAI">
+    <display-name lang="th">HISTORY CHANNEL - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="DISCOVERY WORLD - IND">
+    <display-name lang="en">DISCOVERY WORLD - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DISCOVERY WORLD - VIET">
+    <display-name lang="en">DISCOVERY WORLD - VIET</display-name>
+    <url>http://www.kplus.vn</url>
+  </channel>
+  <channel id="DISCOVERY WORLD - THAI">
+    <display-name lang="th">DISCOVERY WORLD - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="DISCOVERY SCIENCE - IND">
+    <display-name lang="en">DISCOVERY SCIENCE - IND</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="H2 - THAI">
+    <display-name lang="th">H2 - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="INDOMIX">
+    <display-name lang="en">INDOMIX</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DANGDUTZ">
+    <display-name lang="en">DANGDUTZ</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="KITA TV">
+    <display-name lang="en">KITA TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="MTV ASIA">
+    <display-name lang="en">MTV ASIA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MTV HITS">
+    <display-name lang="en">MTV HITS</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="MTV LIVE">
+    <display-name lang="en">MTV LIVE</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CHANNEL V">
+    <display-name lang="zh">CHANNEL V</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="CHANNEL V CHINA">
+    <display-name lang="th">CHANNEL V CHINA</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/342ChannelVChina.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="NAT GEO MUSIC">
+    <display-name lang="th">NAT GEO MUSIC</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/340NatGeoMusic.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="NOW MUSIC">
+    <display-name lang="en">NOW MUSIC</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="CLUBLAND MUSIC">
+    <display-name lang="en">CLUBLAND MUSIC</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="AKA MUSIC">
+    <display-name lang="en">AKA MUSIC</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="KERRANG">
+    <display-name lang="en">KERRANG</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="AXN">
+    <display-name lang="vi">AXN</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN HD - VIET">
+    <display-name lang="vi">AXN HD - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="AXN HD - THAI">
+    <display-name lang="th">AXN HD - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="FOX">
+    <display-name lang="en">FOX</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX CRIME HD">
+    <display-name lang="th">FOX CRIME HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/254FoxCrime.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="DW TV">
+    <display-name lang="th">DW TV</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/80DeutscheWelle.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="DW TV ASIA">
+    <display-name lang="th">DW TV ASIA</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/80DeutscheWelle.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="FX HD">
+    <display-name lang="th">FX HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/250FX.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="SYFY">
+    <display-name lang="th">SYFY</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/252Syfy.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="SONY ENTERTAINMENT">
+    <display-name lang="th">SONY ENTERTAINMENT</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/258SET.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="UNIVERSAL CHANNEL">
+    <display-name lang="th">UNIVERSAL CHANNEL</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/251UniversalChannel.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="WARNER BROS TV">
+    <display-name lang="th">WARNER BROS TV</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/256WBTV.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="KIX">
+    <display-name lang="th">KIX</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/257Kix.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="KIX HD">
+    <display-name lang="en">KIX HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="STAR WORLD">
+    <display-name lang="en">STAR WORLD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="STAR WORLD HD">
+    <display-name lang="th">STAR WORLD HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/201StarWorldHD.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="COMEDY CENTRAL HD">
+    <display-name lang="th">COMEDY CENTRAL HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/205ComedyCentral.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="TLC">
+    <display-name lang="en">TLC</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="DMAX">
+    <display-name lang="en">DMAX</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="EVE">
+    <display-name lang="en">EVE</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BIO">
+    <display-name lang="en">BIO</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BIO HD">
+    <display-name lang="th">BIO HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/507BiographyChannel.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="CRIME &amp; INVESTIGATION">
+    <display-name lang="en">CRIME &amp; INVESTIGATION</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CRIME &amp; INVESTIGATION HD">
+    <display-name lang="th">CRIME &amp; INVESTIGATION HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/508CI.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="LIFETIME">
+    <display-name lang="en">LIFETIME</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="HI TV">
+    <display-name lang="en">HI TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NET. TV">
+    <display-name lang="en">NET. TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL">
+    <display-name lang="en">TRAVEL CHANNEL</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="TRAVEL CHANNEL HD">
+    <display-name lang="en">TRAVEL CHANNEL HD</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="FASHION TV">
+    <display-name lang="en">FASHION TV</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="FASHION TV HD">
+    <display-name lang="th">FASHION TV HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/355FashionTV(HD)-ALACarte.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="FASHION ONE">
+    <display-name lang="en">FASHION ONE</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="ITV CHOICE HD">
+    <display-name lang="th">ITV CHOICE HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/204ITVChoice.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="STAR CHINESE CHANNEL">
+    <display-name lang="th">STAR CHINESE CHANNEL</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/206StarChineseChannel.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="CCTV4">
+    <display-name lang="th">CCTV4</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/85CCTV4.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="CCTV9">
+    <display-name lang="th">CCTV9</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/505CCTV-9.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="ARIRANG">
+    <display-name lang="en">ARIRANG</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="ARIRANG HD">
+    <display-name lang="en">ARIRANG HD</display-name>
+    <url>http://www.starhubtvanywhere.com.en</url>
+  </channel>
+  <channel id="KBS WORLD">
+    <display-name lang="en">KBS WORLD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="KBS WORLD HD">
+    <display-name lang="en">KBS WORLD HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ONE HD">
+    <display-name lang="en">ONE HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="STAR PLUS">
+    <display-name lang="th">STAR PLUS</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/265StarPlus.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="STAR GOLD">
+    <display-name lang="th">STAR GOLD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/269StarGold.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="STAR JALSHA">
+    <display-name lang="en">STAR JALSHA</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="STAR VIJAY">
+    <display-name lang="en">STAR VIJAY</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="COLORS">
+    <display-name lang="en">COLORS</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ZING">
+    <display-name lang="th">ZING</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/268Zing.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="ZEE CLASSIC">
+    <display-name lang="th">ZEE CLASSIC</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/271ZeeClassic.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="ZEE ETC">
+    <display-name lang="en">ZEE ETC</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="ZEE SMILE">
+    <display-name lang="en">ZEE SMILE</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="ZEE TV">
+    <display-name lang="th">ZEE TV</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/266ZeeTV.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="TEN ACTION">
+    <display-name lang="en">TEN ACTION</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="V CHANNEL">
+    <display-name lang="th">V CHANNEL</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/267ChannelVIndia.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="CHANNEL M HD">
+    <display-name lang="th">CHANNEL M HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/202ChannelM.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="FOOD NETWORK">
+    <display-name lang="en">FOOD NETWORK</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOOD NETWORK HD">
+    <display-name lang="en">FOOD NETWORK HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SKY ONE">
+    <display-name lang="en">SKY ONE</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY TWO">
+    <display-name lang="en">SKY TWO</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY LIVING">
+    <display-name lang="en">SKY LIVING</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY LIVING +1">
+    <display-name lang="en">SKY LIVING +1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY ATLANTIC">
+    <display-name lang="en">SKY ATLANTIC</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY ARTS 1">
+    <display-name lang="en">SKY ARTS 1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY ARTS 2">
+    <display-name lang="en">SKY ARTS 2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SHOWCASE">
+    <display-name lang="en">SKY SHOWCASE</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SELECT">
+    <display-name lang="en">SKY SELECT</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="HBO">
+    <display-name lang="vi">HBO</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO - MAL">
+    <display-name lang="en">HBO - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBO - VIET">
+    <display-name lang="vi">HBO - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO - THAI">
+    <display-name lang="vi">HBO - THAI</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="HBO HD">
+    <display-name lang="zh">HBO HD</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="HBO HD - MAL">
+    <display-name lang="en">HBO HD - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HBO HD - VIET">
+    <display-name lang="zh">HBO HD - VIET</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="HBO HD - THAI">
+    <display-name lang="th">HBO HD - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="HBO HITS">
+    <display-name lang="zh">HBO HITS</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="HBO FAMILY">
+    <display-name lang="zh">HBO FAMILY</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="HBO SIGNATURE">
+    <display-name lang="zh">HBO SIGNATURE</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="CINEMAX">
+    <display-name lang="vi">CINEMAX</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="CINEMAX - THAI">
+    <display-name lang="th">CINEMAX - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="MAX">
+    <display-name lang="en">MAX</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CINEMAX - VIET">
+    <display-name lang="vi">CINEMAX - VIET</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="STAR MOVIES">
+    <display-name lang="vi">STAR MOVIES</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="STAR MOVIES HD">
+    <display-name lang="vi">STAR MOVIES HD</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="MOVIES NOW">
+    <display-name lang="en">MOVIES NOW</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="MOVIES NOW HD">
+    <display-name lang="en">MOVIES NOW HD</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="SCREEN RED">
+    <display-name lang="th">SCREEN RED</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="THRILL">
+    <display-name lang="th">THRILL</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/259Thrill.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="FOX MOVIES">
+    <display-name lang="sr">FOX MOVIES</display-name>
+    <url>http://www.sbb.rs</url>
+  </channel>
+  <channel id="DUBAI ONE">
+    <display-name lang="en">DUBAI ONE</display-name>
+    <icon src="http://etfarag.com/ChannelsImages/Dubai Oneblack.gif" />
+    <url>http://www.etfarag.com</url>
+  </channel>
+  <channel id="PINK ACTION MOVIES">
+    <display-name lang="sr">PINK ACTION MOVIES</display-name>
+    <url>http://www.open.telekom.rs</url>
+  </channel>
+  <channel id="FOX MOVIES PREMIUM - MAL">
+    <display-name lang="en">FOX MOVIES PREMIUM - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX MOVIES PREMIUM HD">
+    <display-name lang="zh">FOX MOVIES PREMIUM HD</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="FOX MOVIES PREMIUM HD - MAL">
+    <display-name lang="en">FOX MOVIES PREMIUM HD - MAL</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="FOX MOVIES PREMIUM HD - THAI">
+    <display-name lang="th">FOX MOVIES PREMIUM HD - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="FOX ACTION MOVIES HD">
+    <display-name lang="en">FOX ACTION MOVIES HD</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES HD">
+    <display-name lang="zh">FOX FAMILY MOVIES HD</display-name>
+    <url>http://www.nowtv.now.com</url>
+  </channel>
+  <channel id="FOX FAMILY MOVIES HD - THAI">
+    <display-name lang="th">FOX FAMILY MOVIES HD - THAI</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="MGM_MOVIES">
+    <display-name lang="en">MGM MOVIES</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="JGO MOVIES">
+    <display-name lang="en">JGO MOVIES</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CELESTIAL MOVIES">
+    <display-name lang="en">CELESTIAL MOVIES</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CELESTIAL MOVIES HD">
+    <display-name lang="en">CELESTIAL MOVIES HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="CELESTIAL CLASSIC MOVIES">
+    <display-name lang="th">CELESTIAL CLASSIC MOVIES</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/262CCM.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="STAR CHINESE MOVIES LEGEND">
+    <display-name lang="th">STAR CHINESE MOVIES LEGEND</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/261SCMLegend.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="SKY MOVIES PREMIERE">
+    <display-name lang="en">SKY MOVIES PREMIERE</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY MOVIES CRIME &amp; THRILLER">
+    <display-name lang="en">SKY MOVIES CRIME &amp; THRILLER</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY MOVIES ACTION &amp; ADVENTURE">
+    <display-name lang="en">SKY MOVIES ACTION &amp; ADVENTURE</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY MOVIES MODERN GREATS">
+    <display-name lang="en">SKY MOVIES MODERN GREATS</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY MOVIES SCIFI &amp; HORROR">
+    <display-name lang="en">SKY MOVIES SCIFI &amp; HORROR</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ZEE CINEMA">
+    <display-name lang="en">ZEE CINEMA</display-name>
+    <url>http://www.in.com</url>
+  </channel>
+  <channel id="B4U MOVIES">
+    <display-name lang="en">B4U MOVIES</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="ASTRO ARENA">
+    <display-name lang="en">ASTRO ARENA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 1">
+    <display-name lang="en">ASTRO SUPERSPORT 1</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 2">
+    <display-name lang="en">ASTRO SUPERSPORT 2</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 3">
+    <display-name lang="en">ASTRO SUPERSPORT 3</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 4">
+    <display-name lang="en">ASTRO SUPERSPORT 4</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 1 HD">
+    <display-name lang="en">ASTRO SUPERSPORT 1 HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 2 HD">
+    <display-name lang="en">ASTRO SUPERSPORT 2 HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASTRO SUPERSPORT 3 HD">
+    <display-name lang="en">ASTRO SUPERSPORT 3 HD</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="ASN SPORTS">
+    <display-name lang="en">ASN SPORTS</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="SETANTA SPORTS">
+    <display-name lang="en">SETANTA SPORTS</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="FOX SPORTS">
+    <display-name lang="vi">FOX SPORTS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="FOX SPORTS HD">
+    <display-name lang="th">FOX SPORTS HD</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="FOX SPORTS PLUS HD">
+    <display-name lang="en">FOX SPORTS PLUS HD</display-name>
+    <url>http://www.starhubtvanywhere.com.en</url>
+  </channel>
+  <channel id="EURO SPORTS">
+    <display-name lang="en">EURO SPORTS</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="EURO SPORTS HD">
+    <display-name lang="en">EURO SPORTS HD</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="ESPN">
+    <display-name lang="en">ESPN</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="STAR SPORTS">
+    <display-name lang="vi">STAR SPORTS</display-name>
+    <url>http://www.mytv.com.vn</url>
+  </channel>
+  <channel id="STAR SPORTS HD">
+    <display-name lang="th">STAR SPORTS HD</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="SUN CHANNEL HD">
+    <display-name lang="th">SUN CHANNEL HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/620SunChannelLaLigaHD.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="SKY SPORTS 1">
+    <display-name lang="en">SKY SPORTS 1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS 2">
+    <display-name lang="en">SKY SPORTS 2</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS 3">
+    <display-name lang="en">SKY SPORTS 3</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS 4">
+    <display-name lang="en">SKY SPORTS 4</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS 5">
+    <display-name lang="en">SKY SPORTS 5</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS F1">
+    <display-name lang="en">SKY SPORTS F1</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY SPORTS NEWS">
+    <display-name lang="en">SKY SPORTS NEWS</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SKY POKER">
+    <display-name lang="en">SKY POKER</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="AT THE RACES">
+    <display-name lang="en">AT THE RACES</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="RACING UK">
+    <display-name lang="en">RACING UK</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="FIGHT SPORTS">
+    <display-name lang="en">FIGHT SPORTS</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NBA TV">
+    <display-name lang="th">NBA TV</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="BEIN SPORTS 1">
+    <display-name lang="en">BEIN SPORTS 1</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BEIN SPORTS 2">
+    <display-name lang="en">BEIN SPORTS 2</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="GRAND PRIX">
+    <display-name lang="th">GRAND PRIX</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/603GrandPrixChannel.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="TEN CRICKET">
+    <display-name lang="th">TEN CRICKET</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/640TenCricket.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 1">
+    <display-name lang="th">TRUE SPORT 1</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 2">
+    <display-name lang="th">TRUE SPORT 2</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 3">
+    <display-name lang="th">TRUE SPORT 3</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 4">
+    <display-name lang="th">TRUE SPORT 4</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 5">
+    <display-name lang="th">TRUE SPORT 5</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 6">
+    <display-name lang="th">TRUE SPORT 6</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT 7">
+    <display-name lang="th">TRUE SPORT 7</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT HD 1">
+    <display-name lang="th">TRUE SPORT HD 1"</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT HD 2">
+    <display-name lang="th">TRUE SPORT HD 2</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT HD 3">
+    <display-name lang="th">TRUE SPORT HD 3</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="TRUE SPORT HD 4">
+    <display-name lang="th">TRUE SPORT HD 4</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="ASTRO AWANI">
+    <display-name lang="en">ASTRO AWANI</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BERNAMA TV">
+    <display-name lang="en">BERNAMA TV</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="1NEWS">
+    <display-name lang="ms">1NEWS</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/1news.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="CHANNEL NEWS ASIA">
+    <display-name lang="en">CHANNEL NEWS ASIA</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU">
+    <display-name lang="en">BERITA SATU</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="BERITA SATU WORLD">
+    <display-name lang="en">BERITA SATU WORLD</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="NHK WORLD">
+    <display-name lang="th">NHK WORLD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/83NHK.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="Al JAZEERA">
+    <display-name lang="en">Al JAZEERA</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CNBC">
+    <display-name lang="en">CNBC</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="BBC WORLD NEWS">
+    <display-name lang="th">BBC WORLD NEWS</display-name>
+    <url>http://www.truevisiontv.com</url>
+  </channel>
+  <channel id="BLOOMBERG TV">
+    <display-name lang="en">BLOOMBERG TV</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="BLOOMBERG INDONESIA">
+    <display-name lang="en">BLOOMBERG INDONESIA</display-name>
+    <url>http://www.jkt.firstmedia.com</url>
+  </channel>
+  <channel id="CNN">
+    <display-name lang="en">CNN</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="MSNBC HD">
+    <display-name lang="th">MSNBC HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/82MSNBC.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="FRANCE24">
+    <display-name lang="th">FRANCE24</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/86France24Eng.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="SKY NEWS HD">
+    <display-name lang="th">SKY NEWS HD</display-name>
+    <icon src="http://203.114.100.152/tvschedulenew/channelpics/79SkyNews.jpg" />
+    <url>http://www.totiptv.com</url>
+  </channel>
+  <channel id="KLASIK NASIONAL">
+    <display-name lang="ms">KLASIK NASIONAL</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/radio-klasik.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="NASIONAL FM">
+    <display-name lang="ms">NASIONAL FM</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/nasional-fm.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="KL FM">
+    <display-name lang="ms">KL FM</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/klfm.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="TRAXX FM">
+    <display-name lang="ms">TRAXX FM</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/traxx-fm.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="MUZIK FM">
+    <display-name lang="ms">MUZIK FM</display-name>
+    <icon src="http://live.rtm.gov.my/epg/images/muzikfm.png" />
+    <url>http://www.rtm.gov.my</url>
+  </channel>
+  <channel id="ERA FM">
+    <display-name lang="en">ERA FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MY FM">
+    <display-name lang="en">MY FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="HITZ FM">
+    <display-name lang="en">HITZ FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MIX FM">
+    <display-name lang="en">MIX FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="LITE FM">
+    <display-name lang="en">LITE FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="THR GEGAR">
+    <display-name lang="en">THR GEGAR</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="SINAR FM">
+    <display-name lang="en">SINAR FM</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="THR RAAGA">
+    <display-name lang="en">THR RAAGA</display-name>
+    <url>http://www.astro.com.my</url>
+  </channel>
+  <channel id="MU TV">
+    <display-name lang="en">MU TV</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="CHELSEA TV">
+    <display-name lang="en">CHELSEA TV</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="LIVERPOOL TV">
+    <display-name lang="en">LIVERPOOL TV</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="4 MUSIC">
+    <display-name lang="en">4 MUSIC</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="KISS USA">
+    <display-name lang="en">KISS USA</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="SMASH HITS">
+    <display-name lang="en">SMASH HITS</display-name>
+    <url>http://www.uk-sky.com</url>
+  </channel>
+  <channel id="CINESTAR">
+    <display-name lang="hr">CINESTAR</display-name>
+    <url>http://www.mojtv.hr</url>
+  </channel>
+  <channel id="CINESTAR PREMIERE 1">
+    <display-name lang="hr">CINESTAR PREMIERE 1</display-name>
+    <url>http://www.bnet.hr</url>
+  </channel>
+  <channel id="CINESTAR PREMIERE 2">
+    <display-name lang="hr">CINESTAR PREMIERE 2</display-name>
+    <url>http://www.bnet.hr</url>
+  </channel>
+</tv>
