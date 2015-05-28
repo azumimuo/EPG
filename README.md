@@ -30,4 +30,7 @@ Intisari Rancangan TV Pelbagai Negara.
 
 coded by : NORAZMI MD RAMDAN / azumimuo
 
+contact me at : 
+twitter @azumimuo
+
 
